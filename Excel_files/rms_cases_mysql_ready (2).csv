@@ -1,0 +1,619 @@
+case_id,month,date_opened,date_closed,fc,marketplace,region,root_cause,rms_given,asin_count,rms_amount,shipment_type,carrier,re_evaluation,approved,re_evaluation_amount,seller_name
+40010091,Jan,2025-01-13,2025-01-19,FC-UK01,UK,EU,Duplicate Merge,No,4,0,SPD,UPS,No,No,0,ZenOutdoors SARL
+40010180,Jan,2025-01-17,2025-01-23,FC-DE12,DE,EU,Shipment Not Eligible,No,4,0,SPD,DHL,No,No,0,NordHome
+40010305,Jan,2025-01-06,2025-01-09,FC-DE02,DE,EU,Valid Documentation Not Received,No,3,0,SPD,UPS,No,No,0,ZenOutdoors SARL
+40010338,Jan,2025-01-14,2025-02-14,FC-DE01,DE,EU,FC Operation,No,4,0,SPD,UPS,No,No,0,BlueOutdoors SARL
+40010347,Jan,2025-01-24,2025-01-31,FC-DE03,DE,EU,Valid Documentation Not Received,No,5,0,SPD,UPS,No,No,0,NordGoods Ltd
+40010389,Jan,2025-01-21,2025-01-23,FC-UK03,UK,EU,Shipment Not Eligible,No,3,0,SPD,UNKNOWN,No,No,0,AstraOutdoors LLC
+40010404,Jan,2025-01-11,2025-01-22,FC-DE10,DE,EU,Item Substitution,No,3,0,SPD,UNKNOWN,No,No,0,MapleOutdoors
+40010435,Jan,2025-01-28,2025-01-31,FC-DE08,DE,EU,FC Operation,No,0,0,SPD,UPS,No,No,0,KoraWorks Ltd
+40010454,Jan,2025-01-13,2025-01-20,FC-CA02,CA,NA,Valid Documentation Not Received,No,2,0,SPD,UPS,No,No,0,BlueOutdoors SARL
+40010462,Jan,2025-01-23,2025-01-29,FC-DE01,DE,EU,Item Label Defect,No,1,0,SPD,UNKNOWN,No,No,0,SolStore S.r.l.
+40010512,Jan,2025-01-03,2025-01-11,FC-UK02,UK,EU,Carton Missing,No,0,0,SPD,UPS,No,No,0,VelaLabs EU
+40010536,Jan,2025-01-02,2025-01-15,FC-US03,US,NA,No Root Cause Summary Listed,No,6,0,SPD,UPS,No,No,0,RivoStore LLC
+40010592,Jan,2025-01-27,2025-02-05,FC-DE02,DE,EU,Carton Missing,No,5,0,SPD,UPS,No,No,0,Zenwind Trading
+40010672,Jan,2025-01-13,2025-01-22,FC-DE06,DE,EU,Passed Statute Of Limitations,No,2,0,SPD,UNKNOWN,No,No,0,LumiTech S.r.l.
+40010705,Jan,2025-01-22,2025-01-30,FC-US06,US,NA,"Shipment Not Eligible, Item Label Defect",No,2,0,SPD,UPS,No,No,0,RivoHome
+40010722,Jan,2025-01-15,2025-01-22,FC-FR01,FR,EU,Item Substitution,No,1,0,SPD,UNKNOWN,No,No,0,BrioWorks SARL
+40010776,Jan,2025-01-01,2025-01-09,FC-FR01,FR,EU,Non-Partnered,No,3,0,SPD,UNKNOWN,No,No,0,ZenTech EU
+40010789,Jan,2025-01-21,2025-01-27,FC-CA01,CA,NA,"Non-Partnered, Shipment Not Eligible",No,3,0,SPD,UNKNOWN,No,No,0,QuantaLabs LLC
+40010802,Jan,2025-01-26,2025-02-08,FC-DE03,DE,EU,Valid Documentation Not Received,No,4,0,SPD,DPD,No,No,0,MapleGoods GmbH
+40010858,Jan,2025-01-27,2025-02-04,FC-UK02,UK,EU,Duplicate Merge,No,3,0,SPD,DHL,No,No,0,RivoLiving EU
+40010864,Jan,2025-01-25,2025-02-02,FC-DE01,DE,EU,"Non-Partnered, FC Operation",No,6,0,SPD,UNKNOWN,No,No,0,Unknown
+40010896,Jan,2025-01-10,2025-01-24,FC-CA01,CA,NA,"No ID, Item Substitution",No,5,0,SPD,UPS,No,No,0,Astrawind Trading
+40010905,Jan,2025-01-19,2025-01-20,FC-US08,US,NA,FC Operation,No,2,0,SPD,UNKNOWN,No,No,0,KoraSupply S.r.l.
+40010956,Jan,2025-01-17,2025-01-20,FC-DE12,DE,EU,No ID,No,3,0,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40010991,Jan,2025-01-05,2025-01-14,FC-ES03,ES,EU,Carton Missing,No,2,0,SPD,UNKNOWN,No,No,0,KoraWorks Ltd
+40011032,Jan,2025-01-19,2025-01-22,FC-UK03,UK,EU,Account Blocked,No,2,0,SPD,UNKNOWN,No,No,0,ZenTech EU
+40011112,Jan,2025-01-27,2025-01-28,FC-US08,US,NA,Duplicate Merge,No,1,0,SPD,UPS,No,No,0,SolHome S.r.l.
+40011159,Jan,2025-01-14,2025-01-19,FC-US01,US,NA,Investigation Transfer,No,4,0,SPD,UPS,No,No,0,MapleSupply Ltd
+40011226,Jan,2025-01-13,2025-01-22,FC-US02,US,NA,"FC Operation, No ID",No,66,0,SPD,UPS,No,No,0,HearthDirect LLC
+40011253,Jan,2025-01-05,2025-01-07,FC-DE08,DE,EU,Account Blocked,No,5,0,SPD,UPS,No,No,0,KoraStore S.r.l.
+40011304,Jan,2025-01-05,2025-01-13,FC-FR01,FR,EU,Seller Short Ship,No,3,0,SPD,DHL,No,No,0,MapleSupply EU
+40011370,Jan,2025-01-04,2025-01-20,FC-US01,US,NA,"Item Substitution, Carton Missing",No,6,0,SPD,FEDEX,No,No,0,BrioLiving Ltd
+40011404,Jan,2025-01-17,2025-02-15,FC-UK02,UK,EU,FC Operation,No,2,0,SPD,UPS,No,No,0,BlueOutdoors SARL
+40011436,Jan,2025-01-04,2025-01-12,FC-DE02,DE,EU,Case Pack Error,No,2,0,SPD,UNKNOWN,No,No,0,AlpenStore EU
+40011479,Jan,2025-01-19,2025-02-02,FC-IT03,IT,EU,FC Operation,No,4,0,SPD,DPD,No,No,0,QuantaDirect EU
+40011513,Jan,2025-01-24,2025-01-26,FC-ES01,ES,EU,"Carton Missing, FC Operation",No,3,0,SPD,UPS,No,No,0,NovaSupply Ltd
+40011524,Jan,2025-01-10,2025-01-23,FC-FR02,FR,EU,Duplicate Merge,No,4,0,SPD,UNKNOWN,No,No,0,RivoLabs Ltd
+40011538,Jan,2025-01-06,2025-01-13,FC-US07,US,NA,Item Label Defect,No,2,0,SPD,FEDEX,No,No,0,Hearthwind Trading Ltd
+40011667,Jan,2025-01-17,2025-01-23,FC-DE07,DE,EU,"Item Substitution, Shipment Not Eligible, Duplicate Merge",No,9,0,SPD,UPS,No,No,0,NovaTech
+40011679,Jan,2025-01-22,2025-01-28,FC-DE04,DE,EU,Item Label Defect,No,3,0,SPD,UPS,No,No,0,BrioStore S.r.l.
+40011799,Jan,2025-01-16,2025-01-21,FC-IT01,IT,EU,Case Pack Error,No,98,0,SPD,UNKNOWN,No,No,0,RivoStore LLC
+40011938,Jan,2025-01-03,2025-01-06,FC-US05,US,NA,Carton Missing,No,0,0,SPD,FEDEX,No,No,0,BlueOutdoors SARL
+40012024,Jan,2025-01-22,2025-01-29,FC-DE01,DE,EU,Item Substitution,No,0,0,SPD,UNKNOWN,No,No,0,KoraStore Ltd
+40012031,Jan,2025-01-28,2025-02-04,FC-DE03,DE,EU,FC Operation,No,1,0,SPD,UPS,No,No,0,UrbanDirect
+40012056,Jan,2025-01-01,2025-01-20,FC-CA01,CA,NA,Carton Missing,No,1,0,SPD,FEDEX,No,No,0,QuantaTech Ltd
+40012213,Jan,2025-01-14,2025-01-11,FC-UK05,UK,EU,Carton Missing,No,3,0,SPD,UNKNOWN,No,No,0,QuantaLiving GmbH
+40012438,Jan,2025-01-02,2025-01-06,FC-US04,US,NA,"Item Label Defect, Duplicate Merge",No,7,0,SPD,ESTES EXPRESS,No,No,0,ZenHome GmbH
+40012457,Jan,2025-01-21,2025-01-26,FC-UK01,UK,EU,FC Operation,No,3,0,SPD,DHL,No,No,0,BrioLiving EU
+40012494,Jan,2025-01-07,2025-01-13,FC-US01,US,NA,Carton Missing,No,4,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40012529,Jan,2025-01-27,2025-02-04,FC-DE05,DE,EU,Item Substitution,No,0,0,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40012595,Jan,2025-01-13,2025-01-29,FC-US01,US,NA,No Root Cause Summary Listed,No,5,0,SPD,UNKNOWN,No,No,0,Hearthwind Trading Ltd
+40012619,Jan,2025-01-27,2025-01-30,FC-UK02,UK,EU,Item Substitution,No,1,0,SPD,DHL,No,No,0,BlueLabs LLC
+40012657,Jan,2025-01-14,2025-01-31,FC-US09,US,NA,Carton Missing,No,3,0,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40012663,Jan,2025-01-17,2025-01-27,FC-DE06,DE,EU,Duplicate Merge,No,5,0,SPD,DHL,No,No,0,VelaDirect Ltd
+40012752,Feb,2025-02-03,2025-02-07,FC-US01,US,NA,"Item Substitution, Shipment Not Eligible",No,1,0,SPD,UNKNOWN,No,No,0,LumiSupply SARL
+40012785,Feb,2025-02-20,2025-02-21,FC-UK08,UK,EU,Valid Documentation Not Received,No,8,0,SPD,UPS,No,No,0,RivoStore LLC
+40012788,Feb,2025-02-02,2025-02-06,FC-FR02,FR,EU,FC Operation,No,4,0,SPD,UNKNOWN,No,No,0,BrioGoods
+40012795,Feb,2025-02-07,2025-03-06,FC-UK02,UK,EU,"Duplicate Merge, No Root Cause Summary Listed",No,1,0,SPD,DHL,No,No,0,BlueOutdoors SARL
+40012840,Feb,2025-02-05,2025-02-12,FC-CA01,CA,NA,Passed Statute Of Limitations,No,3,0,SPD,UNKNOWN,No,No,0,LumiLiving GmbH
+40012857,Feb,2025-02-16,2025-02-23,FC-US01,US,NA,Duplicate Merge,No,2,0,SPD,UPS,No,No,0,VelaDirect GmbH
+40012897,Feb,2025-02-05,2025-02-09,FC-ES03,ES,EU,Shipment Not Eligible,No,123,0,SPD,UNKNOWN,No,No,0,MapleGear SARL
+40012964,Feb,2025-02-17,2025-02-25,FC-US01,US,NA,"Carton Missing, FC Operation",No,4,0,SPD,UPS,No,No,0,VelaLabs EU
+40013052,Feb,2025-02-19,2025-02-28,FC-DE04,DE,EU,Seller Short Ship,No,4,0,SPD,UPS,No,No,0,BlueLabs LLC
+40013123,Feb,2025-02-09,2025-02-13,FC-DE01,DE,EU,FC Operation,No,3,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40013211,Feb,2025-02-23,2025-03-04,FC-IT01,IT,EU,Carton Missing,No,5,0,SPD,UPS,No,No,0,Astrawind Trading
+40013247,Feb,2025-02-27,2025-02-28,FC-DE01,DE,EU,No Root Cause Summary Listed,No,4,0,SPD,UNKNOWN,No,No,0,BrioStore S.r.l.
+40013296,Feb,2025-02-06,2025-02-10,FC-US06,US,NA,Shipment Not Eligible,No,0,0,SPD,FEDEX,No,No,0,SolGoods S.r.l.
+40013338,Feb,2025-02-07,2025-03-01,FC-DE09,DE,EU,"Carton Missing, FC Operation, Duplicate Merge",No,2,0,SPD,UPS,No,No,0,BlueSupply SARL
+40013375,Feb,2025-02-21,2025-02-07,FC-US01,US,NA,"Valid Documentation Not Received, Item Substitution",No,2,0,SPD,UNKNOWN,No,No,0,ZenGear GmbH
+40013398,Feb,2025-02-01,2025-02-08,FC-DE01,DE,EU,No Root Cause Summary Listed,No,0,0,SPD,UPS,No,No,0,BlueWorks EU
+40013474,Feb,2025-02-19,2025-02-27,FC-UK03,UK,EU,Valid Documentation Not Received,No,108,0,SPD,DPD,No,No,0,AstraTech EU
+40013557,Feb,2025-02-20,2025-03-01,FC-DE01,DE,EU,Case Pack Error,No,7,0,SPD,DPD,No,No,0,HearthWorks GmbH
+40013596,March,2025-03-25,2025-04-06,FC-DE01,DE,EU,"No ID, Duplicate Merge, Item Substitution",No,1,0,SPD,DPD,No,No,0,VelaLabs EU
+40013646,March,2025-03-09,2025-03-13,FC-DE01,DE,EU,No ID,No,1,0,SPD,UNKNOWN,No,No,0,RivoOutdoors GmbH
+40013670,March,2025-03-22,2025-03-31,Unknown,FR,EU,"Item Label Defect, Seller Short Ship",No,6,0,SPD,UNKNOWN,No,No,0,SolHome S.r.l.
+40013724,March,2025-03-20,2025-03-26,FC-US06,US,NA,Duplicate Merge,No,4,0,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40013954,March,2025-03-06,2025-03-16,FC-DE10,DE,EU,"Shipment Received in Full, No Root Cause Summary Listed",No,5,0,SPD,UNKNOWN,No,No,0,KoraWorks Ltd
+40013981,March,2025-03-26,2025-03-29,FC-UK01,UK,EU,Item Substitution,No,6,0,SPD,UNKNOWN,No,No,0,KoraWorks Ltd
+40014027,March,2025-03-15,2025-03-24,FC-UK05,UK,EU,"Shipment Not Eligible, No Root Cause Summary Listed, Carton Missing",No,0,0,SPD,UNKNOWN,No,No,0,ZenGoods GmbH
+40014073,March,2025-03-26,2025-04-14,FC-US01,US,NA,FC Operation,No,4,0,SPD,UPS,No,No,0,UrbanGoods S.r.l.
+40014107,March,2025-03-10,2025-03-23,FC-DE01,DE,EU,"No Root Cause Summary Listed, FC Operation",No,1,0,SPD,UPS,No,No,0,BrioGear SARL
+40014133,March,2025-03-22,2025-03-26,FC-US02,US,NA,Duplicate Merge,No,0,0,SPD,FEDEX,No,No,0,Astrawind Trading
+40014204,March,2025-03-24,2025-04-02,FC-DE05,DE,EU,Item Substitution,No,3,0,SPD,UPS,No,No,0,KoraTech Ltd
+40014276,March,2025-03-02,2025-03-07,FC-US01,US,NA,"Duplicate Merge, Shipment Received in Full, Item Substitution",No,5,0,SPD,UPS,No,No,0,RivoStore LLC
+40014313,March,2025-03-17,2025-03-22,Unknown,DE,EU,No ID,No,2,0,SPD,UPS,No,No,0,AlpenOutdoors Ltd
+40014384,March,2025-03-17,2025-03-18,FC-UK06,UK,EU,Item Substitution,No,0,0,SPD,UNKNOWN,No,No,0,NordHome
+40014414,March,2025-03-01,2025-03-06,FC-US11,US,NA,Duplicate Merge,No,2,0,SPD,FEDEX,No,No,0,RivoStore LLC
+40014430,March,2025-03-19,2025-04-22,FC-CA01,CA,NA,"Item Substitution, No Root Cause Summary Listed, FC Operation",No,4,0,SPD,UPS,No,No,0,ZenOutdoors SARL
+40014491,March,2025-03-17,2025-03-30,FC-UK06,UK,EU,FC Operation,No,3,0,SPD,UNKNOWN,No,No,0,Hearthwind Trading Ltd
+40014550,March,2025-03-08,2025-03-13,FC-DE05,DE,EU,Duplicate Merge,No,2,0,SPD,UPS,No,No,0,BlueWorks
+40014560,March,2025-03-02,2025-03-10,FC-UK03,UK,EU,No ID,No,3,0,SPD,UNKNOWN,No,No,0,NovaSupply
+40014594,March,2025-03-03,2025-03-15,FC-CA02,CA,NA,Duplicate Merge,No,1,0,SPD,ESTES EXPRESS,No,No,0,KoraWorks Ltd
+40014657,March,2025-03-03,2025-03-04,FC-UK02,UK,EU,"Item Substitution, No ID",No,1,0,SPD,UPS,No,No,0,RivoOutdoors
+40014755,March,2025-03-08,2025-03-17,FC-UK01,UK,EU,Item Label Defect,No,3,0,SPD,UNKNOWN,No,No,0,HearthWorks GmbH
+40014790,April,2025-04-07,2025-04-12,FC-IT02,IT,EU,"Valid Documentation Not Received, Item Substitution, Shipment Not Eligible",No,1,0,SPD,UPS,No,No,0,VelaOutdoors LLC
+40014852,April,2025-04-26,2025-05-05,FC-DE12,DE,EU,No Root Cause Summary Listed,No,5,0,SPD,DHL,No,No,0,BlueLiving LLC
+40014878,April,2025-04-10,2025-04-15,FC-UK01,UK,EU,Item Substitution,No,4,0,SPD,UNKNOWN,No,No,0,NordHome LLC
+40014932,April,2025-04-18,2025-04-20,FC-US04,US,NA,Valid Documentation Not Received,No,7,0,SPD,UNKNOWN,No,No,0,AlpenDirect Ltd
+40014969,April,2025-04-06,2025-04-28,FC-UK01,UK,EU,Non-Partnered,No,1,0,SPD,UNKNOWN,No,No,0,AlpenTech GmbH
+40015071,April,2025-04-13,2025-04-19,FC-DE02,DE,EU,"FC Operation, Carton Missing",No,5,0,SPD,UPS,No,No,0,ZenGear GmbH
+40015087,April,2025-04-03,2025-04-11,FC-DE01,DE,EU,Item Label Defect,No,3,0,SPD,UNKNOWN,No,No,0,BlueGoods
+40015108,April,2025-04-05,2025-04-18,FC-DE01,DE,EU,Valid Documentation Not Received,No,5,0,SPD,UNKNOWN,No,No,0,Unknown
+40015166,April,2025-04-02,2025-04-07,FC-US08,US,NA,"Carton Missing, Item Substitution, Shipment Not Eligible",No,138,0,SPD,UPS,No,No,0,AstraLiving EU
+40015180,April,2025-04-12,2025-04-19,FC-UK01,UK,EU,Item Substitution,No,2,0,SPD,UPS,No,No,0,NovaTech EU
+40015217,April,2025-04-02,2025-04-23,FC-DE07,DE,EU,"No ID, No Root Cause Summary Listed",No,3,0,SPD,UPS,No,No,0,HearthGoods GmbH
+40015244,April,2025-04-25,2025-05-12,FC-US08,US,NA,Shipment Not Eligible,No,3,0,SPD,UPS,No,No,0,UrbanSupply
+40015274,April,2025-04-10,2025-04-14,FC-UK06,UK,EU,Shipment Not Eligible,No,2,0,SPD,UNKNOWN,No,No,0,NovaTech
+40015312,April,2025-04-06,2025-04-18,FC-DE02,DE,EU,Item Substitution,No,1,0,SPD,UPS,No,No,0,RivoStore GmbH
+40015409,April,2025-04-13,2025-04-21,FC-UK01,UK,EU,Duplicate Merge,No,2,0,SPD,DHL,No,No,0,AlpenTech LLC
+40015487,April,2025-04-26,2025-05-02,FC-FR01,FR,EU,Shipment Not Eligible,No,3,0,SPD,UPS,No,No,0,NordHome EU
+40015502,April,2025-04-25,2025-04-30,FC-DE01,DE,EU,Shipment Not Eligible,No,3,0,SPD,UPS,No,No,0,ZenOutdoors GmbH
+40015539,April,2025-04-11,2025-04-21,FC-DE01,DE,EU,"Item Substitution, Duplicate Merge, FC Operation",No,1,0,SPD,UPS,No,No,0,RivoDirect SARL
+40015559,April,2025-04-20,2025-05-05,FC-DE01,DE,EU,"Duplicate Merge, Shipment Received in Full",No,5,0,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40015675,April,2025-04-05,2025-04-12,FC-UK04,UK,EU,Valid Documentation Not Received,No,2,0,SPD,UNKNOWN,No,No,0,TerraGear SARL
+40015684,April,2025-04-21,2025-04-28,FC-DE01,DE,EU,"Valid Documentation Not Received, FC Operation, Item Label Defect",No,5,0,SPD,DPD,No,No,0,QuantaDirect LLC
+40015763,April,2025-04-04,2025-04-10,FC-US03,US,NA,Non-Partnered,No,5,0,SPD,UPS,No,No,0,SolOutdoors LLC
+40015784,April,2025-04-15,2025-04-20,FC-US01,US,NA,Item Substitution,No,3,0,SPD,UPS,No,No,0,VelaWorks
+40015799,April,2025-04-19,2025-04-24,FC-UK01,UK,EU,Carton Missing,No,3,0,SPD,UPS,No,No,0,LumiSupply
+40015933,April,2025-04-13,2025-04-25,FC-DE02,DE,EU,Carton Missing,No,1,0,SPD,UPS,No,No,0,VelaWorks GmbH
+40016010,April,2025-04-24,2025-05-03,FC-FR01,FR,EU,Seller Short Ship,No,2,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40016103,April,2025-04-05,2025-04-06,FC-UK01,UK,EU,Item Label Defect,No,2,0,SPD,DPD,No,No,0,NordHome
+40016207,April,2025-04-28,2025-05-12,FC-DE03,DE,EU,"No Root Cause Summary Listed, Carton Missing",No,4,0,SPD,DHL,No,No,0,SolGear S.r.l.
+40016293,April,2025-04-18,2025-04-23,FC-FR01,FR,EU,Duplicate Merge,No,2,0,SPD,UPS,No,No,0,BrioGear SARL
+40016428,April,2025-04-13,2025-04-15,FC-FR01,FR,EU,Case Closed by seller,No,2,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40016495,April,2025-04-10,2025-04-22,FC-UK06,UK,EU,"Case Closed by seller, No ID",No,0,0,SPD,UNKNOWN,No,No,0,ZenTech EU
+40016577,April,2025-04-21,2025-04-27,FC-DE08,DE,EU,No ID,No,1,0,SPD,UNKNOWN,No,No,0,TerraLiving S.r.l.
+40016635,April,2025-04-24,2025-05-04,FC-DE01,DE,EU,"Item Substitution, Duplicate Merge, Passed Statute Of Limitations",No,5,0,SPD,UPS,No,No,0,BlueLabs LLC
+40016669,April,2025-04-14,2025-04-16,FC-US02,US,NA,Carton Missing,No,3,0,SPD,UNKNOWN,No,No,0,AstraSupply GmbH
+40016704,April,2025-04-10,2025-04-15,FC-UK01,UK,EU,Valid Documentation Not Received,No,6,0,SPD,UPS,No,No,0,NovaTech Ltd
+40016794,April,2025-04-17,2025-04-21,FC-UK08,UK,EU,Shipment Not Eligible,No,1,0,SPD,DPD,No,No,0,BlueLiving
+40016804,April,2025-04-25,2025-05-10,FC-UK01,UK,EU,"No Root Cause Summary Listed, Shipment Not Eligible",No,3,0,SPD,UNKNOWN,No,No,0,MapleGoods GmbH
+40016855,April,2025-04-26,2025-05-07,FC-DE03,DE,EU,Carton Missing,No,4,0,SPD,UPS,No,No,0,KoraTech Ltd
+40016908,April,2025-04-02,2025-04-07,FC-US02,US,NA,Item Substitution,No,4,0,SPD,JB HUNT,No,No,0,AstraSupply Ltd
+40016996,April,2025-04-15,2025-04-29,FC-DE05,DE,EU,Case Pack Error,No,0,0,SPD,UNKNOWN,No,No,0,MapleGoods GmbH
+40017035,April,2025-04-01,2025-04-08,FC-DE04,DE,EU,FC Operation,No,2,0,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40017090,April,2025-04-17,2025-05-03,FC-UK06,UK,EU,Carton Missing,No,3,0,SPD,UPS,No,No,0,UrbanLiving SARL
+40017118,April,2025-04-17,2025-04-26,FC-IT01,IT,EU,"FC Operation, Carton Missing",No,4,0,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40017161,April,2025-04-27,2025-05-03,FC-US01,US,NA,Item Substitution,No,2,0,SPD,UNKNOWN,No,No,0,ZenOutdoors SARL
+40017229,April,2025-04-01,2025-04-17,FC-DE11,DE,EU,"Item Label Defect, FC Operation, Carton Missing",No,2,0,SPD,UNKNOWN,No,No,0,UrbanGoods
+40017243,April,2025-04-06,2025-04-08,FC-IT02,IT,EU,Case Pack Error,No,3,0,SPD,UNKNOWN,No,No,0,ZenOutdoors SARL
+40017290,April,2025-04-12,2025-04-27,FC-UK05,UK,EU,"Item Label Defect, FC Operation",No,7,0,SPD,DHL,No,No,0,KoraWorks Ltd
+40017389,April,2025-04-11,2025-04-15,FC-DE07,DE,EU,Carton Missing,No,4,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40017437,April,2025-04-10,2025-04-17,FC-US02,US,NA,FC Operation,No,0,0,SPD,ESTES EXPRESS,No,No,0,BlueSupply SARL
+40017470,April,2025-04-18,2025-04-28,FC-CA01,CA,NA,Carton Missing,No,0,0,SPD,UPS,No,No,0,RivoTech LLC
+40017481,April,2025-04-04,2025-04-14,FC-FR04,FR,EU,FC Operation,No,1,0,SPD,UNKNOWN,No,No,0,Unknown
+40017508,April,2025-04-10,2025-04-11,FC-CA02,CA,NA,FC Operation,No,4,0,SPD,JB HUNT,No,No,0,NovaTech
+40017554,April,2025-04-11,2025-04-17,FC-US07,US,NA,Shipment Not Eligible,No,1,0,SPD,UPS,No,No,0,KoraWorks Ltd
+40017655,April,2025-04-19,2025-04-26,FC-DE13,DE,EU,"Case Closed by seller, Investigation Transfer, Duplicate Merge",No,0,0,SPD,UNKNOWN,No,No,0,Hearthwind Trading Ltd
+40017671,April,2025-04-06,2025-04-08,FC-DE03,DE,EU,Valid Documentation Not Received,No,2,0,SPD,DHL,No,No,0,QuantaGoods LLC
+40017680,April,2025-04-26,2025-05-01,FC-UK01,UK,EU,FC Operation,No,4,0,SPD,DHL,No,No,0,QuantaDirect EU
+40017687,April,2025-04-16,2025-04-21,FC-DE01,DE,EU,"Item Substitution, Shipment Not Eligible",No,6,0,SPD,UPS,No,No,0,ZenOutdoors GmbH
+40017720,April,2025-04-21,2025-05-03,FC-FR01,FR,EU,Item Substitution,No,126,0,SPD,UNKNOWN,No,No,0,HearthOutdoors SARL
+40017768,April,2025-04-05,2025-04-30,FC-UK03,UK,EU,"Item Substitution, No ID",No,3,0,SPD,UNKNOWN,No,No,0,LumiHome SARL
+40017862,May,2025-05-06,2025-05-14,FC-UK04,UK,EU,FC Operation,No,2,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40017906,May,2025-05-19,2025-05-29,FC-ES01,ES,EU,Item Label Defect,No,4,0,SPD,UPS,No,No,0,VelaDirect Ltd
+40017943,May,2025-05-17,2025-05-28,FC-US01,US,NA,Carton Missing,No,2,0,SPD,FEDEX,No,No,0,RivoStore LLC
+40018009,May,2025-05-10,2025-05-20,FC-DE02,DE,EU,Shipment Received in Full,No,1,0,SPD,DHL,No,No,0,MapleOutdoors LLC
+40018097,May,2025-05-02,2025-05-07,FC-DE14,DE,EU,Valid Documentation Not Received,No,3,0,SPD,UNKNOWN,No,No,0,SolStore LLC
+40018120,May,2025-05-09,2025-05-28,FC-DE12,DE,EU,"FC Operation, Seller Short Ship",No,4,0,SPD,UNKNOWN,No,No,0,BlueSupply SARL
+40018232,May,2025-05-06,2025-05-18,FC-DE13,DE,EU,"No Root Cause Summary Listed, Carton Missing",No,4,0,SPD,UPS,No,No,0,HearthHome LLC
+40018315,May,2025-05-02,2025-05-16,FC-DE01,DE,EU,"Valid Documentation Not Received, Duplicate Merge",No,3,0,SPD,UNKNOWN,No,No,0,NordStore LLC
+40018387,May,2025-05-21,2025-05-23,FC-ES01,ES,EU,Duplicate Merge,No,1,0,SPD,DHL,No,No,0,MapleDirect Ltd
+40018443,May,2025-05-12,2025-05-18,FC-UK01,UK,EU,No Root Cause Summary Listed,No,4,0,SPD,UPS,No,No,0,SolWorks Ltd
+40018448,May,2025-05-19,2025-05-27,FC-UK02,UK,EU,"FC Operation, Carton Missing",No,4,0,SPD,UNKNOWN,No,No,0,VelaDirect GmbH
+40018479,May,2025-05-27,2025-06-04,FC-UK01,UK,EU,No ID,No,4,0,SPD,UPS,No,No,0,KoraWorks GmbH
+40018634,May,2025-05-27,2025-06-12,FC-UK01,UK,EU,No Root Cause Summary Listed,No,2,0,SPD,UPS,No,No,0,BlueOutdoors SARL
+40018651,May,2025-05-25,2025-06-01,FC-UK01,UK,EU,"Duplicate Merge, No Root Cause Summary Listed",No,1,0,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40018680,May,2025-05-01,2025-05-04,FC-UK01,UK,EU,Item Substitution,No,0,0,SPD,UPS,No,No,0,Maplewind Trading LLC
+40018698,May,2025-05-13,2025-05-17,FC-UK01,UK,EU,"Case Closed by seller, FC Operation, Item Substitution",No,3,0,SPD,UNKNOWN,No,No,0,VelaStore GmbH
+40018811,May,2025-05-20,2025-06-01,FC-FR03,FR,EU,Duplicate Merge,No,2,0,SPD,DHL,No,No,0,VelaOutdoors EU
+40018878,May,2025-05-25,2025-05-29,FC-US11,US,NA,Shipment Received in Full,No,2,0,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40019013,May,2025-05-05,2025-05-12,FC-DE10,DE,EU,"Item Substitution, Shipment Received in Full",No,3,0,SPD,DHL,No,No,0,MapleTech LLC
+40019049,May,2025-05-21,2025-06-04,FC-UK04,UK,EU,Item Substitution,No,5,0,SPD,UNKNOWN,No,No,0,TerraOutdoors S.r.l.
+40019076,May,2025-05-04,2025-05-10,FC-DE01,DE,EU,"Shipment Not Eligible, Duplicate Merge",No,2,0,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40019117,May,2025-05-18,2025-06-16,Unknown,US,NA,"Item Substitution, Case Closed by seller",No,2,0,SPD,UNKNOWN,No,No,0,LumiTech EU
+40019125,May,2025-05-07,2025-05-12,FC-UK01,UK,EU,Duplicate Merge,No,1,0,SPD,UNKNOWN,No,No,0,BrioLiving SARL
+40019282,May,2025-05-25,2025-06-01,FC-DE09,DE,EU,"Item Substitution, No Root Cause Summary Listed",No,3,0,SPD,DPD,No,No,0,Hearthwind Trading Ltd
+40019286,May,2025-05-19,2025-05-24,FC-DE05,DE,EU,Carton Missing,No,4,0,SPD,UPS,No,No,0,KoraWorks GmbH
+40019325,May,2025-05-17,2025-06-06,FC-UK02,UK,EU,FC Operation,No,2,0,SPD,UNKNOWN,No,No,0,ZenOutdoors GmbH
+40019351,May,2025-05-03,2025-05-17,FC-UK09,UK,EU,"Passed Statute Of Limitations, Shipment Not Eligible",No,3,0,SPD,UPS,No,No,0,RivoStore GmbH
+40019440,May,2025-05-14,2025-05-19,FC-DE02,DE,EU,No ID,No,1,0,SPD,UPS,No,No,0,Alpenwind Trading Ltd
+40019468,May,2025-05-21,2025-05-27,FC-DE01,DE,EU,Carton Missing,No,1,0,SPD,UPS,No,No,0,MapleSupply Ltd
+40019511,May,2025-05-20,2025-05-27,FC-DE14,DE,EU,No Root Cause Summary Listed,No,4,0,SPD,UNKNOWN,No,No,0,AlpenDirect S.r.l.
+40019533,May,2025-05-17,2025-05-24,FC-DE14,DE,EU,Item Substitution,No,4,0,SPD,UPS,No,No,0,HearthWorks GmbH
+40019542,May,2025-05-21,2025-06-19,FC-US03,US,NA,"Shipment Not Eligible, Duplicate Merge",No,5,0,SPD,FEDEX,No,No,0,ZenGear GmbH
+40019670,May,2025-05-03,2025-05-06,FC-DE13,DE,EU,Duplicate Merge,No,3,0,SPD,UPS,No,No,0,RivoStore LLC
+40019751,May,2025-05-05,2025-05-22,FC-DE02,DE,EU,Carton Missing,No,1,0,SPD,DPD,No,No,0,KoraWorks Ltd
+40019804,May,2025-05-20,2025-05-22,FC-UK01,UK,EU,Carton Missing,No,5,0,SPD,UPS,No,No,0,AlpenDirect S.r.l.
+40019877,May,2025-05-08,2025-05-25,FC-DE01,DE,EU,"Seller Short Ship, Shipment Not Eligible",No,3,0,SPD,UPS,No,No,0,NordHome LLC
+40019881,May,2025-05-11,2025-05-16,FC-UK05,UK,EU,Item Substitution,No,3,0,SPD,UPS,No,No,0,ZenGoods GmbH
+40019891,May,2025-05-21,2025-05-30,FC-DE02,DE,EU,Item Substitution,No,1,0,SPD,DHL,No,No,0,MapleDirect Ltd
+40020023,May,2025-05-25,2025-06-02,FC-DE04,DE,EU,Item Substitution,No,2,0,SPD,UPS,No,No,0,Astrawind Trading
+40020055,May,2025-05-20,2025-05-26,FC-UK01,UK,EU,Item Substitution,No,5,0,SPD,UPS,Yes,No,0,LumiDirect GmbH
+40020283,May,2025-05-09,2025-05-13,FC-ES03,ES,EU,Item Substitution,No,1,0,SPD,DHL,No,No,0,KoraWorks Ltd
+40020302,May,2025-05-09,2025-05-15,FC-DE01,DE,EU,Shipment Received in Full,No,2,0,SPD,UPS,Yes,No,0,KoraWorks Ltd
+40020510,May,2025-05-23,2025-06-06,FC-CA01,CA,NA,"Carton Missing, Shipment Received in Full",No,4,0,SPD,FEDEX,No,No,0,KoraTech GmbH
+40020773,May,2025-05-27,2025-05-31,FC-IT01,IT,EU,Shipment Not Eligible,No,5,0,SPD,UNKNOWN,No,No,0,LumiOutdoors EU
+40020792,May,2025-05-10,2025-05-15,FC-UK05,UK,EU,No Root Cause Summary Listed,No,5,0,SPD,UNKNOWN,No,No,0,AlpenHome Ltd
+40020827,May,2025-05-12,2025-05-15,FC-UK02,UK,EU,Duplicate Merge,No,2,0,SPD,DHL,No,No,0,Astrawind Trading
+40020867,May,2025-05-13,2025-05-24,FC-FR02,FR,EU,Duplicate Merge,No,3,0,SPD,DPD,No,No,0,Quantawind Trading GmbH
+40020907,May,2025-05-22,2025-06-03,FC-DE04,DE,EU,FC Operation,No,2,0,SPD,DPD,No,No,0,SolGear SARL
+40021120,May,2025-05-13,2025-05-14,FC-US01,US,NA,Duplicate Merge,No,2,0,SPD,JB HUNT,No,No,0,QuantaDirect
+40021137,May,2025-05-02,2025-05-03,FC-US02,US,NA,Carton Missing,No,5,0,SPD,FEDEX,No,No,0,BlueOutdoors SARL
+40021201,May,2025-05-01,2025-05-14,FC-US10,US,NA,No Root Cause Summary Listed,No,4,0,SPD,UNKNOWN,No,No,0,VelaTech Ltd
+40021214,May,2025-05-26,2025-06-19,FC-DE01,DE,EU,"Duplicate Merge, Carton Missing",No,6,0,SPD,UNKNOWN,No,No,0,ZenGoods GmbH
+40021253,May,2025-05-27,2025-06-06,FC-DE06,DE,EU,"Case Closed by seller, Shipment Received in Full, Carton Missing",No,1,0,SPD,DHL,No,No,0,SolHome EU
+40021256,May,2025-05-16,2025-05-19,FC-FR04,FR,EU,No Root Cause Summary Listed,No,3,0,SPD,UPS,No,No,0,BrioStore S.r.l.
+40021360,May,2025-05-25,2025-05-29,FC-UK01,UK,EU,FC Operation,No,3,0,SPD,UPS,No,No,0,HearthWorks GmbH
+40021426,May,2025-05-25,2025-05-28,FC-DE07,DE,EU,Carton Missing,No,2,0,SPD,UPS,No,No,0,BrioTech Ltd
+40021440,May,2025-05-19,2025-06-05,FC-DE12,DE,EU,Item Substitution,No,3,0,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40021446,May,2025-05-09,2025-05-16,FC-US01,US,NA,Duplicate Merge,No,0,0,SPD,UPS,No,No,0,BlueOutdoors SARL
+40021516,May,2025-05-17,2025-05-30,FC-UK02,UK,EU,"Seller Short Ship, No Root Cause Summary Listed",No,0,0,SPD,UPS,No,No,0,AlpenTech GmbH
+40021519,May,2025-05-12,2025-05-13,FC-DE04,DE,EU,No Root Cause Summary Listed,No,0,0,SPD,UPS,No,No,0,KoraWorks Ltd
+40021568,June,2025-06-14,2025-06-28,FC-DE01,DE,EU,Duplicate Merge,No,2,0,SPD,DPD,No,No,0,QuantaLiving
+40021695,June,2025-06-26,2025-07-05,FC-DE03,DE,EU,No Root Cause Summary Listed,No,2,0,SPD,UPS,No,No,0,ZenOutdoors GmbH
+40021884,June,2025-06-17,2025-07-05,FC-UK01,UK,EU,Duplicate Merge,No,4,0,SPD,UNKNOWN,No,No,0,RivoLabs Ltd
+40021951,June,2025-06-22,2025-07-03,Unknown,DE,EU,Carton Missing,No,3,0,SPD,UPS,No,No,0,BlueLabs LLC
+40021993,June,2025-06-09,2025-06-11,FC-DE13,DE,EU,Duplicate Merge,No,1,0,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40022103,June,2025-06-05,2025-06-24,FC-IT01,IT,EU,Shipment Not Eligible,No,3,0,SPD,UPS,No,No,0,AstraDirect LLC
+40022141,June,2025-06-17,2025-07-01,FC-US04,US,NA,No Root Cause Summary Listed,No,4,0,SPD,ESTES EXPRESS,No,No,0,SolHome EU
+40022174,June,2025-06-20,2025-07-06,FC-US04,US,NA,No Root Cause Summary Listed,No,8,0,SPD,UNKNOWN,No,No,0,ZenOutdoors SARL
+40022224,June,2025-06-15,2025-06-25,FC-DE01,DE,EU,Item Substitution,No,2,0,SPD,DHL,No,No,0,AlpenTech GmbH
+40022273,June,2025-06-17,2025-06-25,FC-ES01,ES,EU,Case Closed by seller,No,0,0,SPD,DPD,No,No,0,BrioStore S.r.l.
+40022309,June,2025-06-11,2025-06-19,FC-ES01,ES,EU,Carton Missing,No,8,0,SPD,UNKNOWN,No,No,0,LumiSupply SARL
+40022373,June,2025-06-13,2025-06-19,FC-DE01,DE,EU,No Root Cause Summary Listed,No,4,0,SPD,UNKNOWN,No,No,0,AstraWorks LLC
+40010006,Jan,2025-01-22,2025-02-13,FC-UK06,UK,EU,"FC Operation, Case Closed by seller",No,7,0,LTL,DPD,No,No,0,BlueOutdoors SARL
+40010040,Jan,2025-01-24,2025-01-28,FC-UK04,UK,EU,Case Closed by seller,No,8,0,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40010068,Jan,2025-01-14,2025-01-21,FC-DE04,DE,EU,Valid Documentation Not Received,No,11,0,LTL,UPS,No,No,0,QuantaDirect S.r.l.
+40010127,Jan,2025-01-09,2025-01-23,FC-US03,US,NA,"Duplicate Merge, Item Substitution",No,14,0,LTL,UPS,No,No,0,SolStore S.r.l.
+40010194,Jan,2025-01-04,2025-01-07,FC-US01,US,NA,Duplicate Merge,No,18,0,LTL,FEDEX,No,No,0,NovaTech
+40010257,Jan,2025-01-27,2025-02-01,FC-US05,US,NA,FC Operation,No,10,0,LTL,UPS,No,No,0,RivoStore GmbH
+40010294,Jan,2025-01-13,2025-01-19,FC-UK09,UK,EU,Seller Short Ship,No,15,0,LTL,UNKNOWN,No,No,0,ZenTech LLC
+40010645,Jan,2025-01-27,2025-02-09,FC-UK02,UK,EU,"Non-Partnered, Duplicate Merge",No,16,0,LTL,DPD,No,No,0,KoraWorks Ltd
+40011046,Jan,2025-01-08,2025-01-13,FC-ES01,ES,EU,Duplicate Merge,No,0,0,LTL,UNKNOWN,No,No,0,MapleSupply EU
+40011135,Jan,2025-01-23,2025-01-26,FC-DE05,DE,EU,Item Substitution,No,16,0,LTL,DPD,No,No,0,UrbanOutdoors Ltd
+40011194,Jan,2025-01-10,2025-01-13,FC-UK02,UK,EU,"No Root Cause Summary Listed, Account Blocked",No,12,0,LTL,UNKNOWN,No,No,0,UrbanLiving Ltd
+40011238,Jan,2025-01-24,2025-01-25,FC-UK05,UK,EU,Item Substitution,No,15,0,LTL,UNKNOWN,No,No,0,Astrawind Trading
+40011431,Jan,2025-01-08,2025-02-11,FC-UK09,UK,EU,"FC Operation, Duplicate Merge, Item Substitution",No,0,0,LTL,UPS,No,No,0,SolWorks Ltd
+40011551,Jan,2025-01-14,2025-01-22,FC-US10,US,NA,No Root Cause Summary Listed,No,106,0,LTL,FEDEX,No,No,0,Hearthwind Trading Ltd
+40011572,Jan,2025-01-23,2025-01-31,FC-DE10,DE,EU,Duplicate Merge,No,9,0,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40011605,Jan,2025-01-12,2025-01-19,FC-UK07,UK,EU,Duplicate Merge,No,12,0,LTL,UPS,No,No,0,RivoLabs Ltd
+40011612,Jan,2025-01-08,2025-01-15,FC-DE12,DE,EU,FC Operation,No,3,0,LTL,UPS,No,No,0,BlueOutdoors SARL
+40011701,Jan,2025-01-25,2025-01-26,FC-US08,US,NA,Carton Missing,No,9,0,LTL,JB HUNT,No,No,0,NordGoods Ltd
+40011721,Jan,2025-01-22,2025-01-27,Unknown,UK,EU,Carton Missing,No,10,0,LTL,UPS,No,No,0,AstraStore Ltd
+40011829,Jan,2025-01-23,2025-01-31,FC-UK01,UK,EU,Item Substitution,No,17,0,LTL,UNKNOWN,No,No,0,Urbanwind Trading SARL
+40011840,Jan,2025-01-13,2025-01-18,FC-CA01,CA,NA,Valid Documentation Not Received,No,12,0,LTL,UNKNOWN,No,No,0,AlpenStore EU
+40011879,Jan,2025-01-02,2025-01-08,FC-UK02,UK,EU,Item Substitution,No,10,0,LTL,DHL,No,No,0,RivoStore LLC
+40011947,Jan,2025-01-19,2025-01-22,FC-IT03,IT,EU,Shipment Not Eligible,No,13,0,LTL,UPS,No,No,0,AstraLabs LLC
+40011989,Jan,2025-01-10,2025-01-14,FC-UK04,UK,EU,Item Substitution,No,16,0,LTL,UPS,No,No,0,BlueOutdoors SARL
+40012076,Jan,2025-01-04,2025-01-05,FC-DE03,DE,EU,Carton Missing,No,22,0,LTL,DHL,No,No,0,RivoStore LLC
+40012105,Jan,2025-01-15,2025-01-23,FC-DE02,DE,EU,FC Operation,No,13,0,LTL,UPS,No,No,0,BlueOutdoors SARL
+40012129,Jan,2025-01-02,2025-01-10,FC-UK02,UK,EU,Shipment Not Eligible,No,17,0,LTL,UPS,No,No,0,NovaSupply
+40012320,Jan,2025-01-21,2025-01-31,Unknown,UK,EU,FC Operation,No,136,0,LTL,UNKNOWN,No,No,0,VelaSupply
+40012466,Jan,2025-01-12,2025-01-23,FC-DE11,DE,EU,"Carton Missing, FC Operation",No,9,0,LTL,DHL,No,No,0,Astrawind Trading
+40012548,Jan,2025-01-19,2025-01-24,FC-CA01,CA,NA,Shipment Not Eligible,No,13,0,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40012573,Jan,2025-01-13,2025-01-23,FC-DE01,DE,EU,Item Substitution,No,14,0,LTL,UPS,No,No,0,SolGoods S.r.l.
+40012648,Jan,2025-01-21,2025-01-28,FC-US03,US,NA,"Item Substitution, No ID",No,11,0,LTL,UPS,No,No,0,Maplewind Trading LLC
+40012954,Feb,2025-02-04,2025-02-15,FC-DE03,DE,EU,No Root Cause Summary Listed,No,10,0,LTL,UNKNOWN,No,No,0,Maplewind Trading LLC
+40012979,Feb,2025-02-26,2025-03-19,FC-DE01,DE,EU,"No Root Cause Summary Listed, Item Substitution",No,9,0,LTL,DPD,No,No,0,NovaLabs GmbH
+40013014,Feb,2025-02-27,2025-03-02,FC-UK02,UK,EU,"No ID, Non-Partnered, Valid Documentation Not Received",No,4,0,LTL,UPS,No,No,0,LumiTech S.r.l.
+40013061,Feb,2025-02-08,2025-02-20,FC-UK01,UK,EU,"Shipment Received in Full, Carton Missing",No,11,0,LTL,UPS,No,No,0,RivoStore LLC
+40013160,Feb,2025-02-23,2025-02-28,FC-DE01,DE,EU,Item Substitution,No,13,0,LTL,UPS,No,No,0,MapleWorks
+40013274,Feb,2025-02-26,2025-03-27,FC-US02,US,NA,"Carton Missing, FC Operation",No,11,0,LTL,UPS,No,No,0,BlueGoods
+40013368,Feb,2025-02-28,2025-03-05,FC-DE08,DE,EU,Non-Partnered,No,12,0,LTL,UNKNOWN,No,No,0,VelaWorks GmbH
+40013426,Feb,2025-02-02,2025-02-09,FC-DE01,DE,EU,"Shipment Not Eligible, Seller Short Ship, Non-Partnered, FC Operation",No,15,0,LTL,UNKNOWN,No,No,0,ZenWorks GmbH
+40013451,Feb,2025-02-26,2025-03-08,FC-UK02,UK,EU,Carton Missing,No,18,0,LTL,UNKNOWN,No,No,0,HearthWorks GmbH
+40013510,Feb,2025-02-03,2025-02-06,Unknown,US,NA,Duplicate Merge,No,11,0,LTL,UNKNOWN,No,No,0,BrioWorks SARL
+40013727,March,2025-03-01,2025-03-10,FC-DE03,DE,EU,No Root Cause Summary Listed,No,9,0,LTL,UPS,No,No,0,BrioStore Ltd
+40013829,March,2025-03-25,2025-04-01,FC-UK05,UK,EU,Carton Missing,No,11,0,LTL,UNKNOWN,No,No,0,LumiLiving GmbH
+40014052,March,2025-03-07,2025-03-12,FC-DE02,DE,EU,Carton Missing,No,15,0,LTL,UNKNOWN,No,No,0,LumiDirect GmbH
+40014167,March,2025-03-01,2025-03-05,FC-UK08,UK,EU,Shipment Received in Full,No,12,0,LTL,UNKNOWN,No,No,0,SolHome EU
+40014214,March,2025-03-13,2025-03-28,FC-UK02,UK,EU,"Carton Missing, Duplicate Merge",No,12,0,LTL,DHL,No,No,0,Unknown
+40014237,March,2025-03-24,2025-03-31,Unknown,DE,EU,Carton Missing,No,7,0,LTL,UNKNOWN,No,No,0,RivoStore LLC
+40014648,March,2025-03-26,2025-04-07,FC-DE01,DE,EU,Valid Documentation Not Received,No,7,0,LTL,UPS,No,No,0,AstraDirect GmbH
+40014799,April,2025-04-25,2025-05-03,FC-DE01,DE,EU,Item Label Defect,No,13,0,LTL,UNKNOWN,No,No,0,SolGear SARL
+40014820,April,2025-04-06,2025-04-11,FC-UK02,UK,EU,"Item Substitution, Duplicate Merge",No,11,0,LTL,UNKNOWN,No,No,0,QuantaDirect LLC
+40015114,April,2025-04-09,2025-04-20,FC-DE03,DE,EU,Item Substitution,No,7,0,LTL,DHL,No,No,0,BlueOutdoors SARL
+40015334,April,2025-04-05,2025-04-09,FC-UK07,UK,EU,Item Substitution,No,9,0,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40015359,April,2025-04-25,2025-04-30,FC-UK01,UK,EU,Duplicate Merge,No,9,0,LTL,UNKNOWN,No,No,0,MapleSupply EU
+40015372,April,2025-04-23,2025-05-30,FC-UK01,UK,EU,Non-Partnered,No,11,0,LTL,UPS,No,No,0,BrioStore S.r.l.
+40015402,April,2025-04-21,2025-04-30,FC-DE08,DE,EU,Duplicate Merge,No,9,0,LTL,DHL,No,No,0,Nordwind Trading Ltd
+40015437,April,2025-04-10,2025-04-20,FC-DE05,DE,EU,FC Operation,No,10,0,LTL,UPS,No,No,0,QuantaOutdoors
+40015462,April,2025-04-10,2025-04-28,FC-UK02,UK,EU,Carton Missing,No,18,0,LTL,UNKNOWN,No,No,0,AlpenDirect SARL
+40015695,April,2025-04-28,2025-05-06,FC-DE01,DE,EU,FC Operation,No,17,0,LTL,UPS,No,No,0,RivoStore GmbH
+40015716,April,2025-04-27,2025-05-15,FC-UK03,UK,EU,"Item Substitution, Duplicate Merge, No Root Cause Summary Listed",No,14,0,LTL,UNKNOWN,No,No,0,BlueWorks
+40015754,April,2025-04-20,2025-04-22,FC-UK04,UK,EU,Investigation Transfer,No,16,0,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40015829,April,2025-04-20,2025-05-03,FC-DE01,DE,EU,Shipment Not Eligible,No,4,0,LTL,UPS,No,No,0,BlueOutdoors SARL
+40015857,April,2025-04-22,2025-04-28,FC-DE08,DE,EU,FC Operation,No,0,0,LTL,DHL,No,No,0,KoraWorks Ltd
+40015958,April,2025-04-23,2025-05-02,FC-DE01,DE,EU,Investigation Transfer,No,15,0,LTL,DHL,No,No,0,MapleSupply EU
+40016003,April,2025-04-02,2025-04-24,FC-UK03,UK,EU,"Shipment Not Eligible, Valid Documentation Not Received",No,7,0,LTL,UNKNOWN,No,No,0,UrbanGoods
+40016343,April,2025-04-04,2025-04-11,FC-DE05,DE,EU,Duplicate Merge,No,14,0,LTL,UPS,No,No,0,MapleGoods GmbH
+40016488,April,2025-04-17,2025-04-28,FC-DE06,DE,EU,"Item Substitution, Carton Missing",No,16,0,LTL,DPD,No,No,0,PixelStore S.r.l.
+40016561,April,2025-04-08,2025-04-14,FC-US04,US,NA,Item Substitution,No,4,0,LTL,FEDEX,No,No,0,VelaHome Ltd
+40016747,April,2025-04-26,2025-05-07,FC-UK04,UK,EU,Item Substitution,No,11,0,LTL,DHL,No,No,0,VelaLabs EU
+40016873,April,2025-04-23,2025-05-08,FC-DE02,DE,EU,"Shipment Not Eligible, Item Label Defect",No,15,0,LTL,UNKNOWN,No,No,0,RivoDirect SARL
+40016937,April,2025-04-11,2025-04-17,FC-UK02,UK,EU,Item Substitution,No,14,0,LTL,UNKNOWN,No,No,0,BrioTech Ltd
+40016960,April,2025-04-03,2025-04-10,FC-US01,US,NA,"Duplicate Merge, Case Pack Error",No,15,0,LTL,UPS,No,No,0,BlueLiving LLC
+40016963,April,2025-04-24,2025-05-08,FC-US07,US,NA,"Item Substitution, Valid Documentation Not Received",No,17,0,LTL,UNKNOWN,No,No,0,NordGear EU
+40017061,April,2025-04-06,2025-04-10,FC-US01,US,NA,Carton Missing,No,15,0,LTL,UNKNOWN,No,No,0,VelaDirect LLC
+40017087,April,2025-04-19,2025-05-03,FC-ES02,ES,EU,Carton Missing,No,11,0,LTL,UNKNOWN,No,No,0,VelaLabs EU
+40017108,April,2025-04-13,2025-04-20,FC-DE06,DE,EU,"No Root Cause Summary Listed, Carton Missing",No,13,0,LTL,UNKNOWN,No,No,0,SolSupply GmbH
+40017148,April,2025-04-26,2025-05-09,FC-DE01,DE,EU,Carton Missing,No,13,0,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40017177,April,2025-04-10,2025-04-19,Unknown,US,NA,Passed Statute Of Limitations,No,15,0,LTL,UNKNOWN,No,No,0,KoraStore S.r.l.
+40017351,April,2025-04-17,2025-04-24,Unknown,UK,EU,Shipment Not Eligible,No,14,0,LTL,UNKNOWN,No,No,0,MapleGoods GmbH
+40017527,April,2025-04-03,2025-04-08,FC-US02,US,NA,Investigation Transfer,No,5,0,LTL,UNKNOWN,No,No,0,VelaDirect GmbH
+40017734,April,2025-04-20,2025-05-10,FC-UK01,UK,EU,"FC Operation, Duplicate Merge",No,12,0,LTL,UNKNOWN,No,No,0,SolGear SARL
+40017814,April,2025-04-20,2025-04-25,FC-UK01,UK,EU,Duplicate Merge,No,17,0,LTL,UPS,No,No,0,VelaHome Ltd
+40017826,May,2025-05-16,2025-05-22,FC-US03,US,NA,Item Substitution,No,9,0,LTL,UPS,No,No,0,BlueOutdoors SARL
+40017889,May,2025-05-11,2025-05-18,FC-DE01,DE,EU,"No Root Cause Summary Listed, Carton Missing",No,8,0,LTL,UPS,No,No,0,RivoOutdoors
+40017972,May,2025-05-11,2025-05-14,FC-US02,US,NA,Item Substitution,No,10,0,LTL,UNKNOWN,No,No,0,BrioStore S.r.l.
+40017990,May,2025-05-03,2025-05-09,FC-ES01,ES,EU,Duplicate Merge,No,16,0,LTL,UPS,No,No,0,Unknown
+40018002,May,2025-05-22,2025-06-07,FC-FR03,FR,EU,"Non-Partnered, Carton Missing, Item Substitution",No,9,0,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40018015,May,2025-05-19,2025-06-10,FC-DE01,DE,EU,Shipment Not Eligible,No,13,0,LTL,DHL,No,No,0,HearthSupply EU
+40018063,May,2025-05-16,2025-05-22,FC-US02,US,NA,"Non-Partnered, Duplicate Merge",No,13,0,LTL,JB HUNT,No,No,0,RivoStore GmbH
+40018250,May,2025-05-23,2025-05-24,FC-US07,US,NA,Seller Short Ship,No,13,0,LTL,UPS,No,No,0,BrioSupply EU
+40018456,May,2025-05-15,2025-05-18,FC-UK01,UK,EU,Item Label Defect,No,10,0,LTL,UNKNOWN,No,No,0,Hearthwind Trading Ltd
+40018492,May,2025-05-04,2025-05-12,FC-US10,US,NA,FC Operation,No,17,0,LTL,UNKNOWN,No,No,0,ZenGoods GmbH
+40018541,May,2025-05-20,2025-05-23,FC-DE03,DE,EU,Shipment Received in Full,No,12,0,LTL,UNKNOWN,No,No,0,AstraLabs SARL
+40018583,May,2025-05-04,2025-05-06,FC-DE01,DE,EU,Item Substitution,No,12,0,LTL,UNKNOWN,No,No,0,QuantaLiving
+40018854,May,2025-05-23,2025-06-03,FC-FR03,FR,EU,"Account Blocked, Carton Missing",No,10,0,LTL,UNKNOWN,No,No,0,UrbanGoods
+40018914,May,2025-05-17,2025-05-27,FC-US03,US,NA,"No Root Cause Summary Listed, Item Label Defect",No,8,0,LTL,UPS,No,No,0,HearthWorks GmbH
+40019180,May,2025-05-18,2025-05-31,FC-DE01,DE,EU,Item Substitution,No,6,0,LTL,UNKNOWN,No,No,0,UrbanLabs LLC
+40019250,May,2025-05-14,2025-06-03,Unknown,US,NA,"FC Operation, Carton Missing",No,12,0,LTL,UPS,No,No,0,BrioLiving EU
+40019379,May,2025-05-10,2025-05-16,FC-US01,US,NA,"Investigation Transfer, Shipment Not Eligible",No,7,0,LTL,UNKNOWN,No,No,0,Unknown
+40019421,May,2025-05-24,2025-05-28,FC-DE05,DE,EU,Valid Documentation Not Received,No,18,0,LTL,UNKNOWN,No,No,0,RivoOutdoors GmbH
+40019500,May,2025-05-16,2025-05-22,FC-UK01,UK,EU,FC Operation,No,13,0,LTL,UNKNOWN,No,No,0,Velawind Trading GmbH
+40019639,May,2025-05-22,2025-06-13,FC-DE05,DE,EU,"Item Substitution, Investigation Transfer, No Root Cause Summary Listed",No,13,0,LTL,DHL,No,No,0,RivoStore GmbH
+40019832,May,2025-05-07,2025-05-09,FC-DE04,DE,EU,Carton Missing,No,10,0,LTL,UPS,No,No,0,BlueLabs LLC
+40019837,May,2025-05-13,2025-05-20,FC-US06,US,NA,Duplicate Merge,No,11,0,LTL,FEDEX,No,No,0,AlpenDirect SARL
+40019849,May,2025-05-28,2025-06-05,FC-CA02,CA,NA,"Item Substitution, Case Pack Error",No,11,0,LTL,FEDEX,No,No,0,ZenOutdoors SARL
+40019888,May,2025-05-17,2025-05-26,FC-UK05,UK,EU,"Duplicate Merge, No ID",No,10,0,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40019928,May,2025-05-05,2025-05-12,FC-DE01,DE,EU,No ID,No,12,0,LTL,UNKNOWN,No,No,0,KoraStore S.r.l.
+40019931,May,2025-05-24,2025-05-28,FC-DE01,DE,EU,Valid Documentation Not Received,No,9,0,LTL,DPD,No,No,0,BrioStore S.r.l.
+40019990,May,2025-05-17,2025-07-10,FC-UK01,UK,EU,"Carton Missing, Item Label Defect, No Root Cause Summary Listed",No,18,0,LTL,DHL,No,No,0,VelaLabs EU
+40020163,May,2025-05-17,2025-05-23,FC-DE11,DE,EU,No Root Cause Summary Listed,No,14,0,LTL,UNKNOWN,No,No,0,BlueSupply SARL
+40020442,May,2025-05-20,2025-06-01,FC-US04,US,NA,"Shipment Not Eligible, Duplicate Merge",No,5,0,LTL,FEDEX,No,No,0,MapleSupply EU
+40020682,May,2025-05-11,2025-05-19,Unknown,UK,EU,No Root Cause Summary Listed,No,11,0,LTL,UPS,No,No,0,LumiDirect GmbH
+40020926,May,2025-05-24,2025-06-10,FC-US07,US,NA,"Carton Missing, Item Label Defect",No,12,0,LTL,UPS,No,No,0,TerraWorks EU
+40020974,May,2025-05-16,2025-05-19,FC-DE01,DE,EU,FC Operation,No,14,0,LTL,DHL,No,No,0,Nordwind Trading Ltd
+40020991,May,2025-05-11,2025-06-02,FC-DE05,DE,EU,Shipment Received in Full,No,0,0,LTL,DHL,No,No,0,VelaLabs EU
+40021002,May,2025-05-08,2025-05-09,FC-US01,US,NA,Carton Missing,No,18,0,LTL,UPS,No,No,0,ZenOutdoors GmbH
+40021176,May,2025-05-09,2025-05-16,Unknown,DE,EU,Duplicate Merge,No,15,0,LTL,UPS,No,No,0,LumiTech S.r.l.
+40021273,May,2025-05-26,2025-05-31,Unknown,UK,EU,FC Operation,No,10,0,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40021329,May,2025-05-24,2025-06-05,FC-UK08,UK,EU,Item Substitution,No,12,0,LTL,UNKNOWN,No,No,0,LumiLabs EU
+40021537,May,2025-05-05,2025-05-16,FC-UK03,UK,EU,"FC Operation, No Root Cause Summary Listed",No,6,0,LTL,DHL,No,No,0,Astrawind Trading
+40021661,June,2025-06-20,2025-07-03,FC-DE02,DE,EU,Carton Missing,No,10,0,LTL,UNKNOWN,No,No,0,Astrawind Trading
+40021926,June,2025-06-17,2025-06-24,FC-US12,US,NA,Non-Partnered,No,10,0,LTL,ESTES EXPRESS,No,No,0,ZenSupply S.r.l.
+40022254,June,2025-06-22,2025-06-26,FC-DE01,DE,EU,No Rc Summary,No,0,0,LTL,UNKNOWN,No,No,0,RivoHome SARL
+40022347,June,2025-06-21,2025-06-27,Unknown,US,NA,Item Substitution,No,13,0,LTL,JB HUNT,No,No,0,MapleGear SARL
+40010505,Jan,2025-01-28,2025-02-04,FC-UK03,UK,EU,Shipment Received in Full,No,4,0,Unknown,UPS,No,No,0,KoraLabs Ltd
+40011085,Jan,2025-01-10,2025-01-15,FC-US02,US,NA,Duplicate Merge,No,3,0,Unknown,UPS,No,No,0,BlueLabs LLC
+40018279,May,2025-05-12,2025-05-28,FC-DE04,DE,EU,"Carton Missing, Case Closed by seller, Duplicate Merge",No,2,0,Unknown,UPS,No,No,0,KoraWorks Ltd
+40018553,May,2025-05-11,2025-04-29,FC-ES01,ES,EU,Valid Documentation Not Received,No,15,0,Unknown,UPS,No,No,0,AstraOutdoors Ltd
+40018615,May,2025-05-05,2025-05-12,FC-US05,US,NA,No ID,No,3,0,Unknown,UNKNOWN,No,No,0,KoraTech Ltd
+40018783,May,2025-05-11,2025-05-15,FC-DE03,DE,EU,Carton Missing,No,12,0,Unknown,UPS,No,No,0,KoraTech Ltd
+40020188,May,2025-05-23,2025-05-26,Unknown,DE,EU,"Item Substitution, Valid Documentation Not Received",No,0,0,Unknown,UNKNOWN,No,No,0,TerraOutdoors
+40022015,June,2025-06-24,2025-06-28,FC-US01,US,NA,No Root Cause Summary Listed,No,2,0,Unknown,UNKNOWN,No,No,0,QuantaDirect S.r.l.
+40010798,Jan,2025-01-17,2025-01-23,FC-US01,US,NA,Item Substitution,No,3,0,SPD,UPS,Yes,Yes,26.74,VelaWorks GmbH
+40014620,March,2025-03-18,2025-04-06,FC-US01,US,NA,Item Substitution,No,3,0,SPD,UPS,Yes,Yes,32.08,NovaSupply Ltd
+40016722,April,2025-04-09,2025-04-13,FC-US03,US,NA,"Item Label Defect, FC Operation",No,0,0,LTL,FEDEX,Yes,Yes,73.39,AstraDirect LLC
+40010626,Jan,2025-01-20,2025-01-27,FC-UK06,UK,EU,Carton Missing,Yes,3,174.68,SPD,UNKNOWN,Yes,Yes,493.61,NordStore S.r.l.
+40012114,Jan,2025-01-28,2025-01-31,FC-IT01,IT,EU,FC Operation,Yes,0,189.06,SPD,DHL,Yes,Yes,530.87,UrbanDirect
+40013268,Feb,2025-02-25,2025-02-28,FC-CA02,CA,NA,FC Operation,Yes,3,566.03,SPD,UNKNOWN,Yes,Yes,496.84,SolStore LLC
+40014354,March,2025-03-21,2025-04-01,FC-DE01,DE,EU,"Carton Missing, FC Operation",Yes,2,226.62,SPD,UPS,Yes,Yes,631.86,BrioSupply EU
+40018496,May,2025-05-15,2025-05-20,FC-UK01,UK,EU,Item Label Defect,Yes,0,385.89,SPD,DHL,Yes,Yes,579.73,AlpenTech LLC
+40020539,May,2025-05-22,2025-05-26,FC-US03,US,NA,Carton Missing,Yes,0,48.17,SPD,UNKNOWN,Yes,Yes,652.24,UrbanDirect
+40010152,Jan,2025-01-11,2025-01-13,FC-DE01,DE,EU,"Non-Partnered, Duplicate Merge, Item Substitution",Yes,14,306.86,LTL,DHL,No,No,0,NordGoods
+40010155,Jan,2025-01-22,2025-01-24,Unknown,US,NA,Carton Missing,Yes,1,290.78,SPD,UPS,No,No,0,RivoHome
+40010250,Jan,2025-01-28,2025-02-03,FC-UK06,UK,EU,Item Substitution,Yes,74,726.2,LTL,UNKNOWN,No,No,0,LumiLabs EU
+40010369,Jan,2025-01-24,2025-02-06,FC-DE01,DE,EU,Item Substitution,Yes,2,848.26,SPD,UNKNOWN,No,No,0,LumiLabs EU
+40010496,Jan,2025-01-12,2025-01-19,FC-FR01,FR,EU,"FC Operation, Item Substitution",Yes,13,381.55,LTL,UNKNOWN,No,No,0,VelaDirect
+40010541,Jan,2025-01-13,2025-01-17,FC-DE06,DE,EU,Item Label Defect,Yes,8,227.79,LTL,UNKNOWN,No,No,0,NordGoods Ltd
+40010761,Jan,2025-01-25,2025-01-30,FC-US03,US,NA,Non-Partnered,Yes,1,75.49,SPD,JB HUNT,No,No,0,ZenOutdoors SARL
+40010795,Jan,2025-01-05,2025-01-10,FC-DE01,DE,EU,Item Substitution,Yes,2,439.21,SPD,UNKNOWN,No,No,0,QuantaDirect S.r.l.
+40010855,Jan,2025-01-06,2025-01-26,FC-DE03,DE,EU,"FC Operation, Account Blocked, Carton Missing",Yes,4,327.14,SPD,UNKNOWN,No,No,0,UrbanSupply
+40010926,Jan,2025-01-15,2025-01-30,FC-FR04,FR,EU,"Shipment Received in Full, FC Operation, Item Substitution",Yes,3,660.39,SPD,DPD,No,No,0,SolGear LLC
+40011000,Jan,2025-01-02,2025-01-25,FC-IT01,IT,EU,Carton Missing,Yes,5,99.04,SPD,UPS,No,No,0,TerraOutdoors
+40011150,Jan,2025-01-16,2025-01-22,FC-US06,US,NA,Carton Missing,Yes,2,122.86,SPD,UNKNOWN,No,No,0,KoraWorks Ltd
+40011273,Jan,2025-01-01,2025-01-11,FC-DE03,DE,EU,Item Substitution,Yes,3,533.1,SPD,UNKNOWN,No,No,0,AstraStore LLC
+40011326,Jan,2025-01-12,2025-01-29,FC-DE12,DE,EU,Item Label Defect,Yes,4,398.45,SPD,UPS,No,No,0,SolHome EU
+40011345,Jan,2025-01-13,2025-01-24,FC-UK08,UK,EU,"Item Substitution, Carton Missing",Yes,3,122.5,SPD,UNKNOWN,No,No,0,BrioStore S.r.l.
+40011475,Jan,2025-01-03,2025-01-18,FC-UK07,UK,EU,"Duplicate Merge, Carton Missing, Item Substitution",Yes,1,93.77,SPD,DPD,No,No,0,QuantaLabs LLC
+40011561,Jan,2025-01-23,2025-01-31,FC-US12,US,NA,"No ID, Item Substitution",Yes,4,95.89,SPD,UNKNOWN,No,No,0,RivoStore LLC
+40011596,Jan,2025-01-16,2025-01-18,FC-CA01,CA,NA,Carton Missing,Yes,11,145.74,LTL,FEDEX,No,No,0,ZenHome
+40011646,Jan,2025-01-25,2025-02-01,FC-DE04,DE,EU,"FC Operation, Shipment Not Eligible",Yes,11,748.96,LTL,UNKNOWN,No,No,0,BlueGoods
+40011715,Jan,2025-01-06,2025-01-26,FC-FR03,FR,EU,Carton Missing,Yes,3,44.75,SPD,UPS,No,No,0,LumiSupply
+40011977,Jan,2025-01-04,2025-01-12,FC-DE13,DE,EU,"Item Substitution, FC Operation",Yes,4,88.08,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40012166,Jan,2025-01-02,2025-01-13,FC-US03,US,NA,"FC Operation, Item Substitution",Yes,0,336.41,SPD,FEDEX,No,No,0,BlueGoods
+40012244,Jan,2025-01-20,2025-01-16,FC-US01,US,NA,"Shipment Not Eligible, No ID, FC Operation",Yes,2,245.54,SPD,UPS,No,No,0,SolGear LLC
+40012256,Jan,2025-01-03,2025-01-06,FC-DE03,DE,EU,"Carton Missing, Non-Partnered, Item Label Defect",Yes,3,210.81,SPD,DHL,No,No,0,LumiOutdoors EU
+40012343,Jan,2025-01-13,2025-01-14,FC-UK07,UK,EU,"FC Operation, Item Substitution",Yes,3,565.55,SPD,UPS,No,No,0,SolGear SARL
+40012376,Jan,2025-01-17,2025-01-22,FC-DE08,DE,EU,Carton Missing,Yes,11,1511.65,LTL,UNKNOWN,No,No,0,UrbanLabs LLC
+40012381,Jan,2025-01-03,2025-01-18,FC-DE01,DE,EU,"FC Operation, Carton Missing",Yes,3,938.45,SPD,UNKNOWN,No,No,0,MapleSupply EU
+40012396,Jan,2025-01-15,2025-01-19,FC-UK01,UK,EU,Item Substitution,Yes,3,277.38,SPD,UPS,No,No,0,UrbanLiving Ltd
+40012432,Jan,2025-01-09,2025-01-18,FC-DE11,DE,EU,"Case Closed by seller, Item Substitution",Yes,1,467.69,SPD,UPS,No,No,0,UrbanLiving SARL
+40012453,Jan,2025-01-19,2025-02-13,FC-US04,US,NA,"No Root Cause Summary Listed, Carton Missing",Yes,4,43.58,SPD,UNKNOWN,No,No,0,TerraWorks
+40012713,Feb,2025-02-12,2025-02-27,FC-DE06,DE,EU,"FC Operation, Item Substitution",Yes,0,1736.41,LTL,UPS,No,No,0,BlueLiving
+40012774,Feb,2025-02-19,2025-02-23,FC-UK03,UK,EU,"FC Operation, Item Substitution",Yes,10,508.31,LTL,UPS,No,No,0,MapleDirect Ltd
+40012800,Feb,2025-02-22,2025-03-06,FC-DE02,DE,EU,Item Label Defect,Yes,5,106.8,SPD,DHL,No,No,0,BlueOutdoors SARL
+40012982,Feb,2025-02-07,2025-02-23,FC-UK04,UK,EU,"Carton Missing, No Root Cause Summary Listed, Non-Partnered, Item Substitution",Yes,13,2522.61,LTL,UPS,No,No,0,ZenWorks GmbH
+40013007,Feb,2025-02-07,2025-02-15,Unknown,UK,EU,"Carton Missing, FC Operation",Yes,17,341.18,LTL,UPS,No,No,0,BlueLabs LLC
+40013102,Feb,2025-02-23,2025-02-28,FC-DE04,DE,EU,"Duplicate Merge, Passed Statute Of Limitations",No,1,60.95,SPD,UPS,No,No,0,TerraWorks
+40013317,Feb,2025-02-11,2025-02-16,FC-DE02,DE,EU,No Root Cause Summary Listed,Yes,3,411.98,SPD,UPS,No,No,0,AstraOutdoors SARL
+40013489,Feb,2025-02-14,2025-02-16,FC-DE05,DE,EU,"FC Operation, No Root Cause Summary Listed",Yes,4,2059.63,SPD,UPS,No,No,0,BlueLiving LLC
+40013502,Feb,2025-02-09,2025-02-17,FC-US02,US,NA,"No Rc Summary, Carton Missing, Duplicate Merge",Yes,6,58.11,SPD,UNKNOWN,No,No,0,Urbanwind Trading EU
+40013533,Feb,2025-02-25,2025-03-05,FC-FR04,FR,EU,Item Substitution,Yes,2,73.75,SPD,UPS,No,No,0,SolStore LLC
+40013569,Feb,2025-02-23,2025-03-06,FC-UK01,UK,EU,Item Label Defect,Yes,3,56.22,SPD,UPS,No,No,0,ZenTech LLC
+40013633,March,2025-03-17,2025-03-19,FC-DE01,DE,EU,"FC Operation, Carton Missing",Yes,1,212.12,SPD,UPS,No,No,0,MapleSupply Ltd
+40013707,March,2025-03-14,2025-03-18,FC-DE01,DE,EU,Seller Short Ship,Yes,1,92.24,SPD,DHL,No,No,0,RivoLiving EU
+40013757,March,2025-03-18,2025-03-22,FC-UK02,UK,EU,Carton Missing,Yes,0,823.49,LTL,DPD,No,No,0,NordStore LLC
+40013783,March,2025-03-20,2025-03-29,FC-DE01,DE,EU,Item Substitution,Yes,3,47.48,SPD,UPS,No,No,0,SolWorks Ltd
+40013834,March,2025-03-06,2025-04-25,Unknown,UK,EU,"FC Operation, Non-Partnered",Yes,1,15.07,SPD,DPD,No,No,0,BlueLabs LLC
+40013897,March,2025-03-07,2025-03-09,FC-DE01,DE,EU,Carton Missing,Yes,6,67.76,LTL,UNKNOWN,No,No,0,HearthDirect GmbH
+40013989,March,2025-03-23,2025-03-29,FC-DE05,DE,EU,"FC Operation, Item Substitution, No Root Cause Summary Listed",Yes,0,43.62,SPD,UPS,No,No,0,Quantawind Trading GmbH
+40014023,March,2025-03-26,2025-04-11,FC-DE05,DE,EU,"Non-Partnered, Carton Missing",Yes,4,73.61,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40014048,March,2025-03-14,2025-03-26,FC-DE01,DE,EU,"Carton Missing, Item Substitution",Yes,3,101.62,SPD,UPS,No,No,0,NordGoods Ltd
+40014077,March,2025-03-21,2025-03-24,FC-US01,US,NA,Carton Missing,Yes,2,99.78,SPD,UPS,No,No,0,Unknown
+40014233,March,2025-03-18,2025-04-06,FC-IT02,IT,EU,"Item Substitution, Item Label Defect",Yes,1,1677.66,SPD,UNKNOWN,No,No,0,ZenTech EU
+40014461,March,2025-03-15,2025-03-22,FC-UK06,UK,EU,"FC Operation, Item Substitution, Carton Missing",Yes,1,48.75,SPD,UPS,No,No,0,VelaLabs EU
+40014530,March,2025-03-16,2025-03-19,FC-US01,US,NA,Carton Missing,Yes,3,512.06,SPD,ESTES EXPRESS,No,No,0,UrbanLiving SARL
+40014565,March,2025-03-15,2025-03-27,Unknown,IT,EU,"FC Operation, Carton Missing, Duplicate Merge",Yes,3,123,SPD,UNKNOWN,No,No,0,HearthWorks GmbH
+40014694,March,2025-03-02,2025-03-26,FC-US05,US,NA,"Item Substitution, Carton Missing, Valid Documentation Not Received",Yes,9,1013.63,LTL,FEDEX,No,No,0,ZenWorks GmbH
+40014772,April,2025-04-14,2025-04-16,FC-UK07,UK,EU,Carton Missing,Yes,100,435.96,SPD,UPS,No,No,0,BrioWorks SARL
+40014889,April,2025-04-02,2025-04-24,Unknown,DE,EU,"Item Label Defect, Carton Missing, Item Substitution",Yes,3,6.8,SPD,DHL,No,No,0,SolGoods S.r.l.
+40014943,April,2025-04-17,2025-04-22,FC-DE01,DE,EU,Item Substitution,Yes,0,392.95,Unknown,DPD,No,No,0,ZenTech LLC
+40015006,April,2025-04-24,2025-04-30,FC-UK01,UK,EU,Carton Missing,Yes,3,141.87,SPD,UNKNOWN,No,No,0,Velawind Trading GmbH
+40015034,April,2025-04-02,2025-04-10,FC-DE01,DE,EU,Carton Missing,Yes,7,201.81,SPD,UNKNOWN,No,No,0,BlueLabs LLC
+40015094,April,2025-04-06,2025-04-17,FC-UK01,UK,EU,Carton Missing,Yes,0,313.3,SPD,UNKNOWN,No,No,0,SolGear SARL
+40015445,April,2025-04-17,2025-04-27,FC-DE02,DE,EU,Carton Missing,Yes,16,441.83,LTL,UNKNOWN,No,No,0,QuantaDirect LLC
+40015475,April,2025-04-02,2025-04-07,FC-US06,US,NA,Carton Missing,Yes,2,109.06,SPD,ESTES EXPRESS,No,No,0,QuantaTech S.r.l.
+40015527,April,2025-04-27,2025-05-07,FC-UK03,UK,EU,Carton Missing,Yes,4,174.83,SPD,UNKNOWN,No,No,0,UrbanDirect
+40015619,April,2025-04-02,2025-04-20,FC-UK02,UK,EU,"Shipment Not Eligible, Item Substitution",Yes,1,213.25,SPD,DHL,No,No,0,AstraLiving EU
+40015886,April,2025-04-27,2025-05-12,Unknown,DE,EU,Item Substitution,Yes,4,78,SPD,UPS,No,No,0,RivoOutdoors GmbH
+40015912,April,2025-04-07,2025-04-10,FC-DE01,DE,EU,Carton Missing,Yes,4,180.38,SPD,UPS,No,No,0,UrbanWorks
+40016040,April,2025-04-22,2025-04-30,FC-CA01,CA,NA,Item Substitution,Yes,4,179.67,SPD,JB HUNT,No,No,0,RivoStore GmbH
+40016141,April,2025-04-16,2025-04-28,FC-DE08,DE,EU,"Carton Missing, Case Pack Error",Yes,11,492,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40016159,April,2025-04-09,2025-04-21,FC-DE02,DE,EU,"Item Substitution, FC Operation",Yes,0,366.92,Unknown,DPD,No,No,0,BlueLabs LLC
+40016223,April,2025-04-17,2025-04-27,FC-DE05,DE,EU,"Item Substitution, No Root Cause Summary Listed",Yes,1,164.99,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40016239,April,2025-04-18,2025-04-28,FC-DE03,DE,EU,Carton Missing,Yes,4,65.35,SPD,UPS,No,No,0,RivoStore LLC
+40016317,April,2025-04-27,2025-05-01,FC-US01,US,NA,Item Substitution,Yes,7,639.25,SPD,UNKNOWN,No,No,0,VelaSupply
+40016371,April,2025-04-25,2025-05-14,FC-DE02,DE,EU,"FC Operation, No Root Cause Summary Listed",Yes,3,11.83,SPD,UNKNOWN,No,No,0,LumiTech EU
+40016388,April,2025-04-24,2025-04-27,FC-FR03,FR,EU,Item Substitution,Yes,7,98.31,SPD,DHL,No,No,0,MapleTech LLC
+40016408,April,2025-04-23,2025-04-27,FC-DE02,DE,EU,Carton Missing,Yes,14,441.48,LTL,UPS,No,No,0,RivoStore LLC
+40016436,April,2025-04-27,2025-05-17,FC-UK01,UK,EU,"Case Pack Error, FC Operation",Yes,0,594.68,SPD,DHL,No,No,0,VelaWorks
+40016529,April,2025-04-22,2025-05-01,FC-DE03,DE,EU,"Item Substitution, Carton Missing, No ID",Yes,0,121.04,LTL,DPD,No,No,0,SolGoods Ltd
+40016601,April,2025-04-10,2025-04-16,FC-UK03,UK,EU,No Root Cause Summary Listed,Yes,6,446.28,SPD,UNKNOWN,No,No,0,QuantaStore EU
+40016759,April,2025-04-02,2025-04-20,FC-UK06,UK,EU,Item Label Defect,Yes,5,65.96,SPD,DHL,No,No,0,AstraDirect GmbH
+40016776,April,2025-04-14,2025-04-19,FC-US05,US,NA,Item Substitution,Yes,13,214.59,LTL,UPS,No,No,0,SolGear LLC
+40016870,April,2025-04-17,2025-05-19,FC-US10,US,NA,"Carton Missing, Item Substitution, No Root Cause Summary Listed",Yes,1,15.35,SPD,UNKNOWN,No,No,0,MapleWorks
+40017045,April,2025-04-11,2025-05-01,FC-UK01,UK,EU,"FC Operation, Item Substitution, Carton Missing",Yes,2,176.72,SPD,UPS,No,No,0,AstraSupply Ltd
+40017074,April,2025-04-23,2025-04-27,FC-US04,US,NA,Carton Missing,Yes,0,66.86,Unknown,UPS,No,No,0,RivoStore GmbH
+40017202,April,2025-04-10,2025-05-03,FC-DE09,DE,EU,"Carton Missing, FC Operation",Yes,6,209.83,SPD,DHL,No,No,0,RivoStore GmbH
+40017269,April,2025-04-04,2025-04-10,FC-FR01,FR,EU,Carton Missing,Yes,1,1073.27,SPD,DPD,No,No,0,BrioGear SARL
+40017322,April,2025-04-04,2025-04-19,FC-UK01,UK,EU,"Carton Missing, FC Operation",Yes,9,1406.2,LTL,UPS,No,No,0,UrbanDirect
+40017402,April,2025-04-11,2025-04-20,FC-ES03,ES,EU,"FC Operation, No ID",Yes,12,114.47,LTL,UPS,No,No,0,VelaWorks GmbH
+40017588,April,2025-04-28,2025-05-09,FC-DE02,DE,EU,"Carton Missing, Item Substitution, FC Operation",Yes,14,376.03,LTL,UPS,No,No,0,AlpenOutdoors Ltd
+40017616,April,2025-04-15,2025-04-20,FC-US06,US,NA,Carton Missing,Yes,3,181.44,SPD,ESTES EXPRESS,No,No,0,AstraDirect LLC
+40017796,April,2025-04-20,2025-04-25,FC-DE03,DE,EU,Carton Missing,Yes,4,135.47,SPD,UPS,No,No,0,Astrawind Trading
+40018050,May,2025-05-17,2025-05-26,FC-UK01,UK,EU,Item Substitution,Yes,2,313.61,SPD,UNKNOWN,No,No,0,UrbanOutdoors Ltd
+40018067,May,2025-05-04,2025-05-12,Unknown,UK,EU,"Carton Missing, FC Operation",Yes,9,417.97,LTL,UNKNOWN,No,No,0,VelaWorks
+40018157,May,2025-05-26,2025-05-13,FC-US07,US,NA,Item Substitution,Yes,0,379.59,SPD,UPS,No,No,0,BrioStore S.r.l.
+40018196,May,2025-05-06,2025-05-23,FC-US01,US,NA,Carton Missing,Yes,4,423.15,SPD,UPS,No,No,0,SolHome S.r.l.
+40018348,May,2025-05-10,2025-05-26,FC-UK01,UK,EU,"Duplicate Merge, Item Substitution, Carton Missing",Yes,10,395.75,Unknown,UPS,No,No,0,Maplewind Trading LLC
+40018405,May,2025-05-19,2025-05-22,Unknown,DE,EU,"Item Substitution, FC Operation",Yes,4,88.71,SPD,UNKNOWN,No,No,0,ZenTech EU
+40018428,May,2025-05-01,2025-06-09,FC-DE10,DE,EU,"Item Label Defect, FC Operation, Carton Missing",Yes,8,116.11,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40018524,May,2025-05-24,2025-06-03,FC-ES01,ES,EU,"Duplicate Merge, FC Operation",Yes,17,895.25,LTL,DPD,No,No,0,MapleGoods GmbH
+40018710,May,2025-05-25,2025-06-05,FC-DE02,DE,EU,"FC Operation, Duplicate Merge, Shipment Not Eligible",Yes,3,215.13,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40018845,May,2025-05-12,2025-05-14,FC-UK05,UK,EU,"Carton Missing, FC Operation, Case Pack Error",Yes,3,26.82,SPD,UPS,No,No,0,AstraLabs SARL
+40018851,May,2025-05-19,2025-06-03,FC-DE07,DE,EU,"Valid Documentation Not Received, Item Substitution, Shipment Not Eligible",Yes,2,167.49,SPD,UPS,No,No,0,Unknown
+40018946,May,2025-05-11,2025-05-21,FC-FR02,FR,EU,Carton Missing,Yes,4,135.44,SPD,UNKNOWN,No,No,0,BrioSupply GmbH
+40019102,May,2025-05-18,2025-05-30,FC-DE02,DE,EU,"Carton Missing, Item Substitution",Yes,5,292.91,SPD,UPS,No,No,0,TerraGoods GmbH
+40019151,May,2025-05-20,2025-05-22,FC-US01,US,NA,"Non-Partnered, Carton Missing, Duplicate Merge",Yes,11,539.11,LTL,JB HUNT,No,No,0,MapleSupply EU
+40019217,May,2025-05-24,2025-06-19,FC-IT01,IT,EU,"FC Operation, No Root Cause Summary Listed",Yes,3,1979.72,SPD,UPS,No,No,0,SolGoods Ltd
+40019374,May,2025-05-27,2025-06-25,FC-UK01,UK,EU,Valid Documentation Not Received,Yes,4,60.31,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40019410,May,2025-05-08,2025-05-14,FC-DE03,DE,EU,Item Substitution,Yes,3,118.48,SPD,UNKNOWN,No,No,0,QuantaDirect
+40019461,May,2025-05-03,2025-05-07,FC-US02,US,NA,Carton Missing,Yes,4,1054.43,SPD,UPS,No,No,0,Astrawind Trading
+40019574,May,2025-05-12,2025-06-05,FC-US03,US,NA,"FC Operation, Carton Missing",Yes,2,2030.37,SPD,JB HUNT,No,No,0,BlueWorks
+40019587,May,2025-05-15,2025-05-24,FC-DE03,DE,EU,"Duplicate Merge, Item Substitution",Yes,2,497.89,SPD,UNKNOWN,No,No,0,LumiHome SARL
+40019725,May,2025-05-10,2025-05-17,FC-FR01,FR,EU,"FC Operation, Passed Statute Of Limitations",Yes,12,177.47,LTL,DHL,No,No,0,Astrawind Trading
+40019754,May,2025-05-19,2025-05-23,FC-UK04,UK,EU,Carton Missing,Yes,1,452.7,SPD,UNKNOWN,No,No,0,SolGear LLC
+40019793,May,2025-05-04,2025-05-14,FC-US01,US,NA,"No Root Cause Summary Listed, Carton Missing",Yes,3,97.07,SPD,UNKNOWN,No,No,0,Zenwind Trading GmbH
+40019913,May,2025-05-09,2025-05-22,FC-DE02,DE,EU,No Root Cause Summary Listed,Yes,9,788.43,LTL,UNKNOWN,No,No,0,MapleGear Ltd
+40020069,May,2025-05-06,2025-05-18,FC-UK04,UK,EU,Carton Missing,Yes,114,9533.58,SPD,UNKNOWN,No,No,0,TerraLabs SARL
+40020124,May,2025-05-07,2025-05-17,FC-DE01,DE,EU,Carton Missing,Yes,4,167.53,SPD,DHL,No,No,0,BlueOutdoors SARL
+40020173,May,2025-05-03,2025-05-05,FC-UK04,UK,EU,"FC Operation, Investigation Transfer",Yes,13,72.11,LTL,UNKNOWN,No,No,0,QuantaDirect
+40020252,May,2025-05-22,2025-05-26,FC-US04,US,NA,"FC Operation, Carton Missing",Yes,4,24.17,SPD,UNKNOWN,No,No,0,BrioDirect Ltd
+40020364,May,2025-05-17,2025-05-18,FC-UK01,UK,EU,"Non-Partnered, Item Label Defect, No ID",Yes,3,67.63,SPD,UPS,No,No,0,BlueOutdoors SARL
+40020391,May,2025-05-13,2025-05-19,FC-DE03,DE,EU,Item Substitution,Yes,1,145.05,SPD,UPS,No,No,0,MapleSupply Ltd
+40020419,May,2025-05-08,2025-05-11,FC-UK04,UK,EU,Carton Missing,Yes,1,62.6,SPD,UNKNOWN,No,No,0,AstraLabs Ltd
+40020494,May,2025-05-09,2025-05-14,FC-UK01,UK,EU,"Valid Documentation Not Received, Case Pack Error, FC Operation",Yes,3,35.06,SPD,DPD,No,No,0,BlueOutdoors SARL
+40020515,May,2025-05-18,2025-06-03,FC-DE03,DE,EU,Carton Missing,Yes,12,646.69,LTL,DHL,No,No,0,ZenTech LLC
+40020556,May,2025-05-11,2025-05-16,FC-DE05,DE,EU,"Case Closed by seller, FC Operation",Yes,16,138.96,LTL,UPS,No,No,0,LumiDirect GmbH
+40020577,May,2025-05-18,2025-05-28,FC-US04,US,NA,"Item Label Defect, Carton Missing",Yes,1,762.32,SPD,UNKNOWN,No,No,0,AlpenHome Ltd
+40020616,May,2025-05-22,2025-05-30,FC-DE02,DE,EU,"Item Label Defect, Seller Short Ship, FC Operation",Yes,1,116.9,SPD,UPS,No,No,0,AlpenLiving LLC
+40020637,May,2025-05-26,2025-06-01,FC-UK01,UK,EU,Duplicate Merge,No,3,87.49,SPD,DHL,No,No,0,NovaTech
+40020662,May,2025-05-15,2025-05-24,FC-CA01,CA,NA,"Non-Partnered, Carton Missing, Item Substitution",Yes,2,84,SPD,UPS,No,No,0,QuantaDirect S.r.l.
+40020706,May,2025-05-08,2025-05-14,FC-UK01,UK,EU,"Case Closed by seller, FC Operation, Item Label Defect",Yes,2,185.99,SPD,DHL,No,No,0,MapleWorks
+40020756,May,2025-05-17,2025-06-02,Unknown,ES,EU,"FC Operation, Carton Missing",Yes,7,290.47,LTL,UNKNOWN,No,No,0,BlueLiving LLC
+40020839,May,2025-05-26,2025-06-09,FC-US05,US,NA,"Item Label Defect, Carton Missing",Yes,4,1226.58,SPD,FEDEX,No,No,0,LumiDirect GmbH
+40020896,May,2025-05-20,2025-06-06,FC-US06,US,NA,"No Root Cause Summary Listed, Item Substitution, Carton Missing, Item Label Defect",Yes,3,115.51,SPD,UNKNOWN,No,No,0,RivoOutdoors GmbH
+40020957,May,2025-05-12,2025-05-22,FC-DE04,DE,EU,Carton Missing,Yes,13,7724.47,LTL,UPS,No,No,0,BlueOutdoors SARL
+40021026,May,2025-05-23,2025-05-29,FC-US01,US,NA,Carton Missing,Yes,5,1044.42,SPD,UNKNOWN,No,No,0,UrbanStore
+40021147,May,2025-05-20,2025-05-22,FC-CA01,CA,NA,Item Label Defect,Yes,3,663.8,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40021291,May,2025-05-23,2025-06-05,FC-UK01,UK,EU,"Carton Missing, Valid Documentation Not Received, Duplicate Merge",Yes,3,382.99,SPD,UNKNOWN,No,No,0,Unknown
+40021364,May,2025-05-10,2025-05-31,FC-FR01,FR,EU,Item Substitution,Yes,17,296.33,LTL,DHL,No,No,0,BlueLabs LLC
+40021390,May,2025-05-20,2025-05-29,FC-DE14,DE,EU,"No Root Cause Summary Listed, Valid Documentation Not Received",Yes,3,95.6,SPD,UPS,No,No,0,UrbanGoods S.r.l.
+40021602,June,2025-06-03,2025-07-02,FC-UK03,UK,EU,"Carton Missing, FC Operation",Yes,3,376.71,SPD,UPS,No,No,0,UrbanGoods
+40021622,June,2025-06-16,2025-06-19,FC-DE01,DE,EU,Carton Missing,Yes,0,566.75,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40021633,June,2025-06-12,2025-06-27,FC-DE01,DE,EU,Carton Missing,Yes,4,403.4,SPD,DPD,No,No,0,SolGear SARL
+40021652,June,2025-06-28,2025-07-10,FC-ES03,ES,EU,"Carton Missing, Item Substitution",Yes,0,76.48,LTL,DPD,No,No,0,BlueOutdoors SARL
+40021688,June,2025-06-13,2025-07-02,FC-DE03,DE,EU,"FC Operation, Item Label Defect",Yes,3,494.78,SPD,UPS,No,No,0,BlueOutdoors SARL
+40021728,June,2025-06-25,2025-07-06,FC-US07,US,NA,"FC Operation, Case Closed by seller",Yes,8,179.99,LTL,FEDEX,No,No,0,KoraHome Ltd
+40021737,June,2025-06-16,2025-06-25,FC-ES02,ES,EU,"Carton Missing, Item Label Defect",Yes,7,1470.56,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40021758,June,2025-06-21,2025-06-27,FC-US02,US,NA,Item Substitution,Yes,3,150.17,Unknown,UNKNOWN,No,No,0,RivoLiving EU
+40021862,June,2025-06-28,2025-07-03,FC-UK01,UK,EU,Item Substitution,Yes,9,59.19,LTL,UPS,No,No,0,NovaSupply
+40021999,June,2025-06-12,2025-06-14,FC-UK03,UK,EU,Carton Missing,Yes,5,135.04,Unknown,UPS,No,No,0,ZenGoods GmbH
+40022008,June,2025-06-21,2025-06-23,FC-US04,US,NA,"Carton Missing, Duplicate Merge",Yes,1,628.59,SPD,ESTES EXPRESS,No,No,0,HearthSupply EU
+40022046,June,2025-06-06,2025-06-10,FC-UK01,UK,EU,Carton Missing,Yes,2,535.84,SPD,UNKNOWN,No,No,0,Astrawind Trading
+40010220,Jan,2025-01-15,2025-01-17,FC-DE11,DE,EU,FC Operation,Yes,7,1213.17,SPD,UPS,No,No,0,RivoStore GmbH
+40010397,Jan,2025-01-23,2025-02-08,FC-ES01,ES,EU,FC Operation,Yes,5,113.15,SPD,UPS,No,No,0,LumiLiving EU
+40010572,Jan,2025-01-14,2025-01-19,FC-DE01,DE,EU,FC Operation,Yes,5,250.52,SPD,DHL,No,No,0,Hearthwind Trading Ltd
+40010841,Jan,2025-01-24,2025-02-01,FC-DE02,DE,EU,FC Operation,Yes,0,1248.87,SPD,UNKNOWN,No,No,0,MapleDirect Ltd
+40011316,Jan,2025-01-02,2025-01-08,FC-DE01,DE,EU,FC Operation,Yes,7,109.59,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40011367,Jan,2025-01-03,2025-01-17,FC-IT02,IT,EU,FC Operation,Yes,126,4817.81,LTL,DPD,No,No,0,BlueOutdoors SARL
+40011376,Jan,2025-01-13,2025-01-17,FC-UK01,UK,EU,FC Operation,Yes,10,643.31,LTL,DHL,No,No,0,BlueOutdoors SARL
+40011519,Jan,2025-01-21,2025-01-30,FC-UK02,UK,EU,FC Operation,Yes,1,140.16,SPD,DHL,No,No,0,SolGear GmbH
+40011531,Jan,2025-01-11,2025-01-15,FC-DE12,DE,EU,FC Operation,Yes,4,258.94,SPD,UPS,No,No,0,QuantaDirect S.r.l.
+40011747,Jan,2025-01-24,2025-01-27,FC-DE06,DE,EU,FC Operation,Yes,10,2790.35,LTL,DPD,No,No,0,RivoLiving
+40011772,Jan,2025-01-03,2025-01-10,FC-UK02,UK,EU,FC Operation,Yes,4,294.89,SPD,DHL,No,No,0,QuantaLabs LLC
+40011890,Jan,2025-01-19,2025-02-03,FC-US01,US,NA,FC Operation,Yes,0,42.24,SPD,FEDEX,No,No,0,Unknown
+40011909,Jan,2025-01-14,2025-01-21,FC-DE10,DE,EU,FC Operation,Yes,5,481.17,SPD,DHL,No,No,0,AlpenHome Ltd
+40012089,Jan,2025-01-19,2025-01-22,FC-DE01,DE,EU,FC Operation,Yes,14,3668.07,LTL,DHL,No,No,0,RivoHome
+40012201,Jan,2025-01-09,2025-01-14,FC-UK01,UK,EU,FC Operation,Yes,7,318.2,SPD,DPD,No,No,0,BlueOutdoors SARL
+40012232,Jan,2025-01-25,2025-02-03,FC-UK07,UK,EU,FC Operation,Yes,10,111.58,LTL,UNKNOWN,No,No,0,VelaWorks
+40012285,Jan,2025-01-14,2025-01-20,FC-FR01,FR,EU,FC Operation,Yes,11,155.94,LTL,UPS,No,No,0,AstraSupply Ltd
+40012402,Jan,2025-01-03,2025-01-09,FC-UK04,UK,EU,FC Operation,Yes,1,402.1,SPD,UNKNOWN,No,No,0,BlueWorks EU
+40012498,Jan,2025-01-27,2025-02-07,FC-UK05,UK,EU,FC Operation,Yes,2,497.69,SPD,UPS,No,No,0,TerraLabs SARL
+40012686,Feb,2025-02-20,2025-02-28,FC-UK07,UK,EU,FC Operation,Yes,2,198.41,SPD,UNKNOWN,No,No,0,AlpenTech GmbH
+40012830,Feb,2025-02-18,2025-03-01,Unknown,UK,EU,FC Operation,Yes,2,478.66,SPD,UPS,Yes,No,0,KoraWorks Ltd
+40012875,Feb,2025-02-17,2025-02-21,FC-DE05,DE,EU,FC Operation,Yes,3,17.66,SPD,UPS,No,No,0,BrioDirect Ltd
+40012929,Feb,2025-02-05,2025-02-13,FC-DE01,DE,EU,FC Operation,No,3,1661.17,SPD,UNKNOWN,No,No,0,Maplewind Trading LLC
+40013094,Feb,2025-02-27,2025-03-11,FC-DE03,DE,EU,FC Operation,Yes,1,54.71,SPD,UNKNOWN,No,No,0,BlueLabs LLC
+40013173,Feb,2025-02-13,2025-02-22,FC-DE07,DE,EU,FC Operation,Yes,1,91.1,SPD,UPS,No,No,0,ZenGear GmbH
+40013225,Feb,2025-02-12,2025-02-25,FC-UK01,UK,EU,FC Operation,Yes,13,234.49,LTL,DHL,No,No,0,RivoLabs Ltd
+40013486,Feb,2025-02-28,2025-03-05,FC-IT02,IT,EU,FC Operation,Yes,2,134.61,SPD,UPS,No,No,0,BlueOutdoors SARL
+40013681,March,2025-03-08,2025-03-13,FC-US06,US,NA,FC Operation,Yes,1,199.61,SPD,FEDEX,No,No,0,RivoDirect SARL
+40013739,March,2025-03-23,2025-03-27,Unknown,UK,EU,FC Operation,Yes,5,1185.33,SPD,DHL,No,No,0,ZenTech EU
+40013786,March,2025-03-08,2025-03-13,FC-UK02,UK,EU,FC Operation,Yes,2,120.13,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40013810,March,2025-03-28,2025-04-01,FC-US10,US,NA,FC Operation,Yes,4,285.51,SPD,UNKNOWN,No,No,0,VelaDirect Ltd
+40013848,March,2025-03-18,2025-04-05,FC-DE09,DE,EU,FC Operation,Yes,19,140.74,LTL,UNKNOWN,No,No,0,MapleWorks
+40013887,March,2025-03-08,2025-03-11,FC-DE01,DE,EU,FC Operation,Yes,3,90.68,SPD,UNKNOWN,No,No,0,LumiSupply
+40013915,March,2025-03-07,2025-03-13,FC-UK01,UK,EU,FC Operation,Yes,1,58.45,SPD,DHL,No,No,0,HearthWorks GmbH
+40014009,March,2025-03-16,2025-03-21,FC-IT01,IT,EU,FC Operation,Yes,3,2443.73,SPD,UNKNOWN,No,No,0,Quantawind Trading GmbH
+40014325,March,2025-03-15,2025-03-21,FC-US02,US,NA,FC Operation,No,15,203.41,LTL,UNKNOWN,No,No,0,BlueOutdoors SARL
+40014725,March,2025-03-10,2025-03-20,FC-DE01,DE,EU,FC Operation,Yes,3,762.91,SPD,UPS,No,No,0,MapleGear SARL
+40014758,March,2025-03-07,2025-03-11,FC-US01,US,NA,FC Operation,Yes,2,6.39,SPD,UNKNOWN,No,No,0,VelaOutdoors GmbH
+40014844,April,2025-04-12,2025-04-17,FC-DE01,DE,EU,FC Operation,Yes,412,128450.75,LTL,UNKNOWN,No,No,0,KoraWorks Ltd
+40014906,April,2025-04-25,2025-04-30,FC-IT01,IT,EU,FC Operation,Yes,2,108.62,SPD,UNKNOWN,No,No,0,MapleSupply EU
+40015038,April,2025-04-26,2025-04-29,FC-FR03,FR,EU,FC Operation,No,3,232.99,SPD,UPS,No,No,0,BrioTech Ltd
+40015056,April,2025-04-12,2025-04-15,FC-UK03,UK,EU,FC Operation,Yes,3,202.5,SPD,UPS,No,No,0,AstraWorks LLC
+40015144,April,2025-04-21,2025-04-29,FC-DE01,DE,EU,FC Operation,Yes,2,69.35,SPD,UPS,No,No,0,KoraWorks Ltd
+40015190,April,2025-04-12,2025-04-18,FC-UK04,UK,EU,FC Operation,Yes,2,42.45,SPD,UNKNOWN,No,No,0,NordHome LLC
+40015521,April,2025-04-19,2025-04-26,FC-DE11,DE,EU,FC Operation,Yes,10,99.21,LTL,UNKNOWN,No,No,0,Unknown
+40015572,April,2025-04-26,2025-05-11,FC-IT01,IT,EU,FC Operation,Yes,1,109.29,SPD,DPD,No,No,0,Astrawind Trading
+40015598,April,2025-04-13,2025-04-14,FC-DE04,DE,EU,FC Operation,Yes,1,84.32,SPD,DHL,No,No,0,KoraStore S.r.l.
+40015651,April,2025-04-23,2025-04-24,FC-DE06,DE,EU,FC Operation,Yes,2,57,SPD,DPD,No,No,0,PixelStore LLC
+40015726,April,2025-04-03,2025-04-09,FC-UK01,UK,EU,FC Operation,Yes,5,10.28,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40015826,April,2025-04-15,2025-04-24,FC-UK01,UK,EU,FC Operation,Yes,4,146.98,SPD,UPS,No,No,0,RivoStore LLC
+40015982,April,2025-04-02,2025-04-16,FC-DE12,DE,EU,FC Operation,Yes,17,1952,LTL,UNKNOWN,No,No,0,RivoStore GmbH
+40016077,April,2025-04-20,2025-04-22,FC-DE09,DE,EU,FC Operation,Yes,92,182.37,SPD,DHL,No,No,0,BlueOutdoors SARL
+40016188,April,2025-04-16,2025-04-27,FC-DE02,DE,EU,FC Operation,Yes,7,352.03,SPD,UPS,No,No,0,ZenGear GmbH
+40016231,April,2025-04-08,2025-04-18,FC-US02,US,NA,FC Operation,Yes,0,619.51,LTL,UPS,No,No,0,ZenWorks GmbH
+40016257,April,2025-04-09,2025-04-16,FC-DE07,DE,EU,FC Operation,Yes,13,238.06,LTL,DHL,No,No,0,Maplewind Trading LLC
+40016444,April,2025-04-19,2025-04-25,FC-UK03,UK,EU,FC Operation,Yes,2,366.37,SPD,DPD,No,No,0,BrioStore SARL
+40016461,April,2025-04-08,2025-04-11,FC-IT03,IT,EU,FC Operation,Yes,14,2284.95,LTL,UPS,No,No,0,KoraStore S.r.l.
+40016564,April,2025-04-27,2025-05-19,FC-DE02,DE,EU,FC Operation,Yes,5,482.69,SPD,UNKNOWN,No,No,0,RivoStore GmbH
+40016623,April,2025-04-03,2025-04-14,Unknown,DE,EU,FC Operation,Yes,0,246.22,SPD,UNKNOWN,No,No,0,Unknown
+40016629,April,2025-04-07,2025-04-11,FC-US01,US,NA,FC Operation,Yes,11,302.25,LTL,UPS,No,No,0,ZenHome GmbH
+40016632,April,2025-04-19,2025-04-22,FC-DE05,DE,EU,FC Operation,Yes,15,984.47,LTL,DHL,No,No,0,Astrawind Trading
+40016693,April,2025-04-26,2025-05-11,FC-UK02,UK,EU,FC Operation,Yes,11,312.88,LTL,DPD,No,No,0,TerraLiving S.r.l.
+40016840,April,2025-04-06,2025-04-22,FC-DE01,DE,EU,FC Operation,Yes,11,64.79,LTL,UPS,No,No,0,Astrawind Trading
+40016944,April,2025-04-25,2025-05-11,FC-DE10,DE,EU,FC Operation,Yes,2,138.35,SPD,UNKNOWN,No,No,0,Unknown
+40017133,April,2025-04-10,2025-04-17,FC-UK01,UK,EU,FC Operation,Yes,5,112,SPD,DHL,No,No,0,AlpenStore EU
+40017234,April,2025-04-17,2025-04-19,FC-UK02,UK,EU,FC Operation,Yes,11,6794.22,LTL,UPS,No,No,0,BrioLiving SARL
+40017305,April,2025-04-13,2025-04-20,FC-US03,US,NA,FC Operation,Yes,0,35.16,SPD,UNKNOWN,No,No,0,QuantaLabs LLC
+40017335,April,2025-04-11,2025-04-15,FC-US04,US,NA,FC Operation,Yes,5,344.53,SPD,JB HUNT,No,No,0,MapleSupply Ltd
+40017421,April,2025-04-16,2025-04-19,FC-UK03,UK,EU,FC Operation,Yes,12,366.74,LTL,UPS,No,No,0,QuantaDirect S.r.l.
+40018311,May,2025-05-20,2025-06-02,FC-DE12,DE,EU,FC Operation,Yes,4,119.78,Unknown,UNKNOWN,No,No,0,BrioLiving SARL
+40018419,May,2025-05-06,2025-05-18,FC-UK01,UK,EU,FC Operation,Yes,7,1307.8,LTL,UNKNOWN,No,No,0,RivoStore GmbH
+40018663,May,2025-05-05,2025-05-10,FC-US04,US,NA,FC Operation,Yes,5,345.34,SPD,FEDEX,No,No,0,BlueLiving LLC
+40018720,May,2025-05-01,2025-05-12,FC-DE07,DE,EU,FC Operation,Yes,1,1789.27,SPD,DHL,No,No,0,RivoHome
+40018745,May,2025-05-21,2025-05-28,FC-DE07,DE,EU,FC Operation,Yes,1,22.1,SPD,UNKNOWN,No,No,0,KoraWorks Ltd
+40018978,May,2025-05-18,2025-05-25,FC-DE02,DE,EU,FC Operation,Yes,0,190.78,SPD,UPS,No,No,0,VelaLabs EU
+40019241,May,2025-05-11,2025-05-17,FC-DE01,DE,EU,FC Operation,Yes,4,365.99,SPD,DHL,No,No,0,BlueLiving LLC
+40019604,May,2025-05-28,2025-06-03,FC-FR01,FR,EU,FC Operation,No,8,149.69,Unknown,UPS,No,No,0,AlpenStore EU
+40019692,May,2025-05-27,2025-06-06,FC-FR01,FR,EU,FC Operation,Yes,6,130.79,LTL,UPS,No,No,0,BrioGoods GmbH
+40019874,May,2025-05-04,2025-05-09,FC-DE09,DE,EU,FC Operation,Yes,1,683.78,SPD,DHL,No,No,0,UrbanOutdoors Ltd
+40019905,May,2025-05-23,2025-05-28,FC-DE03,DE,EU,FC Operation,Yes,2,53.58,SPD,UPS,No,No,0,Unknown
+40019949,May,2025-05-20,2025-05-29,FC-DE01,DE,EU,FC Operation,Yes,2,115.17,SPD,UPS,No,No,0,TerraOutdoors
+40019982,May,2025-05-02,2025-05-26,FC-US04,US,NA,FC Operation,Yes,3,468.82,SPD,UPS,No,No,0,Hearthwind Trading SARL
+40020091,May,2025-05-18,2025-05-21,FC-DE05,DE,EU,FC Operation,Yes,0,399.09,SPD,UNKNOWN,No,No,0,RivoHome
+40020223,May,2025-05-18,2025-05-24,FC-DE12,DE,EU,FC Operation,Yes,2,94.41,SPD,UNKNOWN,No,No,0,BrioGear SARL
+40020332,May,2025-05-03,2025-05-14,FC-UK07,UK,EU,FC Operation,Yes,2,1813.29,SPD,DHL,No,No,0,LumiSupply EU
+40020455,May,2025-05-04,2025-05-11,FC-UK01,UK,EU,FC Operation,Yes,1,445.74,SPD,UNKNOWN,No,No,0,LumiHome S.r.l.
+40020588,May,2025-05-15,2025-05-27,FC-UK01,UK,EU,FC Operation,Yes,15,550.18,LTL,UPS,No,No,0,QuantaDirect EU
+40020744,May,2025-05-22,2025-05-26,FC-US06,US,NA,FC Operation,Yes,102,208.28,SPD,UPS,No,No,0,Alpenwind Trading Ltd
+40021064,May,2025-05-15,2025-05-20,FC-ES01,ES,EU,FC Operation,Yes,2,274.86,SPD,UNKNOWN,No,No,0,ZenGoods GmbH
+40021083,May,2025-05-17,2025-05-22,FC-DE05,DE,EU,FC Operation,Yes,9,1342.95,LTL,DHL,No,No,0,UrbanSupply
+40021480,May,2025-05-26,2025-05-31,FC-FR01,FR,EU,FC Operation,Yes,18,386.75,LTL,UNKNOWN,No,No,0,HearthGoods GmbH
+40021684,June,2025-06-01,2025-06-15,FC-DE02,DE,EU,FC Operation,Yes,2,99.54,SPD,DHL,No,No,0,RivoStore GmbH
+40021789,June,2025-06-11,2025-06-16,FC-DE06,DE,EU,FC Operation,Yes,0,218.51,SPD,UPS,No,No,0,KoraTech Ltd
+40021817,June,2025-06-10,2025-06-12,FC-DE01,DE,EU,FC Operation,Yes,4,148.95,SPD,UNKNOWN,No,No,0,BlueOutdoors SARL
+40021848,June,2025-06-01,2025-06-06,FC-DE05,DE,EU,FC Operation,Yes,11,58.04,LTL,UNKNOWN,Yes,No,0,RivoLabs Ltd
+40021896,June,2025-06-19,2025-06-24,FC-DE09,DE,EU,FC Operation,Yes,14,1877.74,LTL,UNKNOWN,No,No,0,QuantaDirect EU
+40021983,June,2025-06-03,2025-06-06,FC-UK02,UK,EU,FC Operation,Yes,3,151.79,SPD,UPS,No,No,0,NovaOutdoors GmbH
+40022050,June,2025-06-16,2025-06-17,FC-UK01,UK,EU,FC Operation,Yes,3,61,SPD,UNKNOWN,No,No,0,RivoOutdoors GmbH
+40022067,June,2025-06-09,2025-06-17,FC-UK07,UK,EU,FC Operation,Yes,3,45.87,SPD,UPS,No,No,0,Astrawind Trading
+40022209,June,2025-06-14,2025-06-20,FC-DE01,DE,EU,FC Operation,Yes,4,268.5,SPD,UNKNOWN,No,No,0,NovaSupply

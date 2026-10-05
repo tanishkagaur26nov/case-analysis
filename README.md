@@ -126,19 +126,12 @@ Full findings and recommendations are in [insights.md](insights.md).
 ## Repository Structure
 
 ```
-├── data/
-│   ├── rms_cases_raw.xlsx          Raw data (6 monthly sheets)
-│   └── rms_cases_clean.csv         Cleaned data used in MySQL
-├── powerquery/
-│   └── cleaning_steps.m            Full Power Query (M) cleaning script
-├── sql/
-│   └── 01_setup.sql … 07_partnered_vs_non_partnered.sql
-├── powerbi/
-│   ├── RMS_Case_Analytics.pbix     Power BI report
-│   ├── dashboard.pdf               PDF export of all pages
-│   └── dax_measures.md             All DAX measures with explanations
-├── screenshots/                    Dashboard and data model images
-├── insights.md                     Detailed findings and recommendations
+├── Excel_files/       Raw data (6 monthly sheets) and cleaned CSV
+├── powerquery/        Power Query (M) cleaning script
+├── SQL_Queries/       SQL scripts 01 to 07
+├── PowerBI/           Power BI report (.pbix), PDF export and DAX measures
+├── screenshots/       Dashboard and data model images
+├── insights.md        Detailed findings and recommendations
 └── README.md
 ```
 
@@ -146,9 +139,8 @@ Full findings and recommendations are in [insights.md](insights.md).
 
 ## How to Reproduce
 
-1. Open `data/rms_cases_raw.xlsx` in Power BI Desktop and apply the steps in `powerquery/cleaning_steps.m`, or open `powerbi/RMS_Case_Analytics.pbix` directly.
-2. In MySQL 8+, run `sql/01_setup.sql`, import `data/rms_cases_clean.csv` into `rms_cases`, then run scripts `02` to `07` in order.
-
+1. Open the raw Excel file in `Excel_files/` in Power BI Desktop and apply the steps in `powerquery/cleaning_steps.m`, or open the `.pbix` file in `PowerBI/` directly.
+2. In MySQL 8+, run `01_setup.sql` from `SQL_Queries/`, import the cleaned CSV into `rms_cases`, then run scripts `02` to `07` in order.
 ---
 
 ## Author

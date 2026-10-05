@@ -4,8 +4,6 @@ An end-to-end analytics project on **618 inbound shipment reimbursement investig
 
 The project is built on my experience as an Investigation Analyst, so the cleaning rules, business logic and recommendations reflect how this work happens in practice.
 
-![Executive Overview](screenshots/01_executive_overview.png)
-
 ---
 
 ## Business Questions
@@ -48,8 +46,7 @@ The raw file contained six monthly sheets with deliberate real-world data proble
 - **Derived a Shipment Partnership field:** a blank carrier means a non-partnered shipment (the seller's own carrier), and a named carrier means a partnered shipment. This rule comes from operational domain knowledge.
 - **Kept 11 logically inconsistent records** (for example, closed before opened) and flagged them in SQL rather than guessing the correct values
 
-**Result:** 618 clean, unique cases. The full cleaning script is in [`powerquery/cleaning_steps.m`](powerquery/cleaning_steps.m).
-
+**Result:** 618 clean, unique cases. 
 ---
 
 ## SQL Analysis (MySQL)
@@ -78,8 +75,6 @@ The raw file contained six monthly sheets with deliberate real-world data proble
 | **Case Details** | Drill-through page with a dynamic title showing every case for the selected FC |
 
 **Data model:** a star schema with a Calendar date table, the main case table and a root-cause bridge table (one-to-many, bi-directional filter).
-
-![Data Model](screenshots/05_data_model.png)
 
 **DAX highlights:**
 - Time intelligence with `DATEADD` (month-over-month change)

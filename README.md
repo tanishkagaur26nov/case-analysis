@@ -145,5 +145,5 @@ Full findings and recommendations are in [insights.md](insights.md).
 
 ## Author
 
-**Tanishka Gaur** · Investigation Analyst | PL-300 certified (Microsoft Power BI Data Analyst)
+**Tanishka Gaur** · Translation Associate II (Risk & Compliance) | PL-300 certified (Microsoft Power BI Data Analyst)
 [LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com)

@@ -2,7 +2,7 @@
 
 An end-to-end analytics project on **618 inbound shipment reimbursement investigation cases** (January–June 2025) across **7 marketplaces** and **47 fulfilment centres (FCs)**. The goal is to identify what drives reimbursement cost, which root causes are most common, and where process improvements would have the greatest impact.
 
-The project is built on my experience as an Investigation Analyst, so the cleaning rules, business logic and recommendations reflect how this work happens in practice.
+The project is built on my experience as a Translation Associate II (Risk & Compliance), so the cleaning rules, business logic and recommendations reflect how this work happens in practice.
 
 ![Executive Overview](screenshots/01_executive_overview.png)
 
